@@ -1,5 +1,173 @@
 [
   {
+    "id": "feed-d62f8061a15e4206d8",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
+    "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer",
+    "published": "2026-10-13",
+    "published_at": "2026-10-13T20:41:11Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-13T22:46:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-2c9018217f53767354",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Philip R. Lane: The AI opportunity for Europe",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+    "published": "2026-10-13",
+    "published_at": "2026-10-13T18:30:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-13T22:46:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-7f7c0dea674c467af6",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA’s Record-Setting Perseverance Rover Team",
+    "url": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team",
+    "published": "2026-10-13",
+    "published_at": "2026-10-13T17:48:46Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-13T22:46:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-ab5f1fab23a311541e",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Perseverance Navcam Image Marks Record Drive",
+    "url": "https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive",
+    "published": "2026-10-13",
+    "published_at": "2026-10-13T17:42:51Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-13T22:46:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-395481ff01334270e3",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Transporter-18 SmallSats Encapsulation",
+    "url": "https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation",
+    "published": "2026-10-13",
+    "published_at": "2026-10-13T17:38:37Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-13T22:46:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-56a71af4425d567fe8",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL",
+    "url": "https://science.nasa.gov/photojournal/voyager-technologies-griffin-1-completes-environmental-testing-at-nasa-jpl",
+    "published": "2026-10-13",
+    "published_at": "2026-10-13T17:11:11Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-13T22:46:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-53911f98c21c784fce",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "published": "2026-10-13",
+    "published_at": "2026-10-13T17:05:48Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-13T22:46:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-ed1be8ea5f53c7373a",
+    "category": "ai",
+    "source": "Google AI",
+    "source_id": "google",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+    "published": "2026-10-13",
+    "published_at": "2026-10-13T16:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-13T22:46:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-996b79babe601422f5",
     "category": "engineering",
     "source": "NASA",
@@ -17,6 +185,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-8d45898e533e591d42",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "published": "2026-10-13",
+    "published_at": "2026-10-13T12:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-13T22:46:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
