@@ -1,0 +1,128 @@
+[
+  {
+    "id": "openai",
+    "name": "OpenAI News",
+    "category": "ai",
+    "url": "https://openai.com/news/rss.xml",
+    "homepage": "https://openai.com/news/",
+    "region": "Global",
+    "hosts": [
+      "openai.com"
+    ],
+    "max_items": 12
+  },
+  {
+    "id": "google",
+    "name": "Google AI",
+    "category": "ai",
+    "url": "https://blog.google/technology/ai/rss/",
+    "homepage": "https://blog.google/innovation-and-ai/",
+    "region": "Global",
+    "hosts": [
+      "blog.google",
+      "deepmind.google",
+      "research.google"
+    ],
+    "max_items": 12
+  },
+  {
+    "id": "hf",
+    "name": "Hugging Face",
+    "category": "ai",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "homepage": "https://huggingface.co/blog",
+    "region": "Global",
+    "hosts": [
+      "huggingface.co"
+    ],
+    "max_items": 8
+  },
+  {
+    "id": "nasa",
+    "name": "NASA",
+    "category": "engineering",
+    "url": "https://www.nasa.gov/feed/",
+    "homepage": "https://www.nasa.gov/news/recently-published/",
+    "region": "US / global missions",
+    "hosts": [
+      "nasa.gov"
+    ],
+    "max_items": 12,
+    "keywords": [
+      "engineer",
+      "technology",
+      "propulsion",
+      "robot",
+      "autonom",
+      "wing",
+      "aircraft",
+      "material",
+      "manufactur",
+      "heat shield",
+      "inspection",
+      "sensor",
+      "spacecraft",
+      "mission"
+    ]
+  },
+  {
+    "id": "esa",
+    "name": "European Space Agency",
+    "category": "engineering",
+    "url": "https://www.esa.int/rssfeed/Our_Activities/Space_Engineering_Technology",
+    "homepage": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology",
+    "region": "Europe / global missions",
+    "hosts": [
+      "esa.int"
+    ],
+    "max_items": 10
+  },
+  {
+    "id": "mit",
+    "name": "MIT News",
+    "category": "engineering",
+    "url": "https://news.mit.edu/rss/feed",
+    "homepage": "https://news.mit.edu/",
+    "region": "US / global research",
+    "hosts": [
+      "mit.edu"
+    ],
+    "max_items": 10,
+    "keywords": [
+      "robot",
+      "engineer",
+      "battery",
+      "material",
+      "energy",
+      "manufactur",
+      "semiconductor",
+      "sensor",
+      "machine learning",
+      "artificial intelligence"
+    ]
+  },
+  {
+    "id": "ecb",
+    "name": "European Central Bank",
+    "category": "finance",
+    "url": "https://www.ecb.europa.eu/rss/press.html",
+    "homepage": "https://www.ecb.europa.eu/home/html/index.en.html",
+    "region": "Europe",
+    "hosts": [
+      "ecb.europa.eu"
+    ],
+    "max_items": 12
+  },
+  {
+    "id": "bis",
+    "name": "Bank for International Settlements",
+    "category": "finance",
+    "url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "homepage": "https://www.bis.org/",
+    "region": "Global",
+    "hosts": [
+      "bis.org"
+    ],
+    "max_items": 10
+  }
+]
