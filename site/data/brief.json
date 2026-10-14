@@ -250,6 +250,111 @@
       "featured": false
     },
     {
+      "id": "feed-504a28fcb44d1a3d50",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "published": "2026-10-14",
+      "published_at": "2026-10-14T16:12:42Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-14T17:12:01Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-bf71316e9c6549ffd7",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA’s Space X CRS-35 Launch Jellyfish",
+      "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish",
+      "published": "2026-10-14",
+      "published_at": "2026-10-14T15:18:38Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-14T17:12:01Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-3fa0bfa68880e9dde1",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+      "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions",
+      "published": "2026-10-14",
+      "published_at": "2026-10-14T13:32:25Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-14T17:12:01Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-57c3309db5bedcdec4",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "published": "2026-10-14",
+      "published_at": "2026-10-14T12:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-14T17:12:01Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-a8b8c31de898145e14",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "published": "2026-10-14",
+      "published_at": "2026-10-14T07:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-14T17:12:01Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-200a5d3dd39c6bfb7a",
       "category": "ai",
       "source": "OpenAI News",
@@ -2802,56 +2907,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-14T11:54:44Z",
-    "last_success": "2026-10-14T11:54:44Z",
+    "last_attempt": "2026-10-14T17:12:01Z",
+    "last_success": "2026-10-14T17:12:01Z",
     "success_count": 8,
     "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": true,
-        "items": 5
+        "items": 6
       },
       {
         "id": "esa",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": true,
         "items": 9
       }
@@ -2860,7 +2965,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -2869,7 +2974,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -2878,11 +2983,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-14T11:54:44Z",
+        "checked_at": "2026-10-14T17:12:01Z",
         "digest": "90799a93051538bee6047f982323b6ef4ab3a1588473fc78164e661b4f5d223f",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-10-14T04:55:47Z"
@@ -2890,11 +2995,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-14T11:54:44Z",
+        "checked_at": "2026-10-14T17:12:01Z",
         "digest": "4ab712705b46b042712493fae7ab1a22ff7e1c74b06ebecf521d72caa1c7481a",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-10-14T04:55:47Z"
@@ -2902,7 +3007,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -2911,7 +3016,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-14T11:54:44Z",
+        "attempted": "2026-10-14T17:12:01Z",
         "ok": false,
         "changed": false,
         "baseline": false,

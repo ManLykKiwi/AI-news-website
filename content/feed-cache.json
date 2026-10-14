@@ -1,5 +1,110 @@
 [
   {
+    "id": "feed-504a28fcb44d1a3d50",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T16:12:42Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T17:12:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-bf71316e9c6549ffd7",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA’s Space X CRS-35 Launch Jellyfish",
+    "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T15:18:38Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T17:12:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-3fa0bfa68880e9dde1",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+    "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T13:32:25Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T17:12:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-57c3309db5bedcdec4",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T12:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T17:12:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-a8b8c31de898145e14",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T07:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T17:12:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-200a5d3dd39c6bfb7a",
     "category": "ai",
     "source": "OpenAI News",
