@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-1e38e2859466937fde",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+    "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T20:13:29Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T21:42:31Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-504a28fcb44d1a3d50",
     "category": "ai",
     "source": "Hugging Face",
@@ -73,6 +94,27 @@
     "published_at": "2026-10-14T12:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-14T17:12:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-004cd593adabcd24c9",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T12:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T21:42:31Z",
     "summary": "",
     "why": "",
     "technical": "",
@@ -1795,6 +1837,27 @@
     "published_at": "2026-09-17T07:10:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-13T14:13:08Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-d60d413610c368252e",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Robotic lab sets up and runs optics experiments on demand",
+    "url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
+    "published": "2026-09-17",
+    "published_at": "2026-09-17T04:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T21:42:31Z",
     "summary": "",
     "why": "",
     "technical": "",
