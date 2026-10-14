@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-200a5d3dd39c6bfb7a",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "The EU’s next chapter in AI is agentic",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T11:54:44Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-9b6e93b48f207022f8",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T11:54:44Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-818b3a081587b402b7",
+    "category": "finance",
+    "source": "Bank for International Settlements",
+    "source_id": "bis",
+    "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
+    "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-14T11:54:44Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-d62f8061a15e4206d8",
     "category": "engineering",
     "source": "NASA",
