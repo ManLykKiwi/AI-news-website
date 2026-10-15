@@ -1,5 +1,110 @@
 [
   {
+    "id": "feed-05694927c60ab3949d",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+    "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland",
+    "published": "2026-10-15",
+    "published_at": "2026-10-15T16:42:10Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-15T17:03:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-53bbcf1ad4102f2561",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
+    "url": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce",
+    "published": "2026-10-15",
+    "published_at": "2026-10-15T15:57:47Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-15T17:03:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-9cfcfa918cded6899b",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
+    "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance",
+    "published": "2026-10-15",
+    "published_at": "2026-10-15T14:57:21Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-15T17:03:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-a60f4a701f887ae8f4",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Teaching students to think and learn through questions",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "published": "2026-10-15",
+    "published_at": "2026-10-15T13:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-15T17:03:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-39052ad94a8a76cc68",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Apertus 1.5 Release Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "published": "2026-10-15",
+    "published_at": "2026-10-15T09:08:45Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-15T17:03:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-8305a742d31be4211c",
     "category": "engineering",
     "source": "European Space Agency",
@@ -38,6 +143,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-eb67409897ed2136a7",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "url": "https://huggingface.co/blog/flux-3",
+    "published": "2026-10-15",
+    "published_at": "2026-10-15T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-15T17:03:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
