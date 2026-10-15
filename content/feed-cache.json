@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-8305a742d31be4211c",
+    "category": "engineering",
+    "source": "European Space Agency",
+    "source_id": "esa",
+    "title": "Swarming robots to tackle space debris",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris",
+    "published": "2026-10-15",
+    "published_at": "2026-10-15T07:50:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-15T11:31:35Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-41eb8051a9c2c0bc5b",
     "category": "engineering",
     "source": "NASA",
