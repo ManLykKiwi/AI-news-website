@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-41eb8051a9c2c0bc5b",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan",
+    "published": "2026-10-15",
+    "published_at": "2026-10-15T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-15T04:41:42Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-1e38e2859466937fde",
     "category": "engineering",
     "source": "NASA",
@@ -136,6 +157,27 @@
     "published_at": "2026-10-14T07:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-14T17:12:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-94ee28b93f9d2d8303",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "published": "2026-10-14",
+    "published_at": "2026-10-14T07:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-15T04:41:42Z",
     "summary": "",
     "why": "",
     "technical": "",
