@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-138e9b7e7d9747243a",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "published": "2026-10-16",
+    "published_at": "2026-10-16T01:44:47Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-16T04:33:48Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-38a125a6c95bf33498",
     "category": "engineering",
     "source": "MIT News",
@@ -59,6 +80,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-32165ee6af8945a5bd",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "published": "2026-10-15",
+    "published_at": "2026-10-15T19:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-16T04:33:48Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -241,6 +283,27 @@
     "published_at": "2026-10-15T00:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-15T21:24:18Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-94eadcab22c41e356a",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "published": "2026-10-15",
+    "published_at": "2026-10-15T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-16T04:33:48Z",
     "summary": "",
     "why": "",
     "technical": "",

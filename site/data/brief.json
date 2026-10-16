@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-10-15",
+    "edition_date": "2026-10-16",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -250,6 +250,27 @@
       "featured": false
     },
     {
+      "id": "feed-138e9b7e7d9747243a",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "published": "2026-10-16",
+      "published_at": "2026-10-16T01:44:47Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-16T04:33:48Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-38a125a6c95bf33498",
       "category": "engineering",
       "source": "MIT News",
@@ -309,6 +330,27 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-32165ee6af8945a5bd",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published": "2026-10-15",
+      "published_at": "2026-10-15T19:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-16T04:33:48Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -491,6 +533,27 @@
       "published_at": "2026-10-15T00:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-10-15T21:24:18Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-94eadcab22c41e356a",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "published": "2026-10-15",
+      "published_at": "2026-10-15T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-16T04:33:48Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -3243,56 +3306,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-15T21:24:18Z",
-    "last_success": "2026-10-15T21:24:18Z",
+    "last_attempt": "2026-10-16T04:33:48Z",
+    "last_success": "2026-10-16T04:33:48Z",
     "success_count": 8,
     "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": true,
         "items": 5
       },
       {
         "id": "esa",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": true,
         "items": 9
       }
@@ -3301,7 +3364,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3310,7 +3373,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3319,31 +3382,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-15T21:24:18Z",
-        "digest": "1fd8b65f203fb5f5232b67225f303b562e9849965050b7ce4040f0e60977f434",
+        "checked_at": "2026-10-16T04:33:48Z",
+        "digest": "ea4951bc7f799ebbbea976ea06cc768c3d1f1f3bb3a61f174989b1838fae0801",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-10-15T21:24:18Z"
+        "changed_at": "2026-10-16T04:33:48Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-15T21:24:18Z",
-        "digest": "8c95cfdf385f54b5c77fdd614c1f40cd88ac8dca2a4fc851bde7e34bbf63d224",
+        "checked_at": "2026-10-16T04:33:48Z",
+        "digest": "10d01e2a4a1aebf47410976cf210e941137a6c538e4bb8f558f2855b3459c438",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-10-15T21:24:18Z"
+        "changed_at": "2026-10-16T04:33:48Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3352,7 +3415,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-15T21:24:18Z",
+        "attempted": "2026-10-16T04:33:48Z",
         "ok": false,
         "changed": false,
         "baseline": false,
