@@ -250,6 +250,27 @@
       "featured": false
     },
     {
+      "id": "feed-5357de9353ef4cacb3",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Artemis II Heat Shield After Splashdown",
+      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown",
+      "published": "2026-10-16",
+      "published_at": "2026-10-16T16:28:01Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-16T16:40:58Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-6a63b3a96ec49dd065",
       "category": "engineering",
       "source": "NASA",
@@ -309,6 +330,27 @@
       "kind": "feed",
       "tags": [
         "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-c9a6184923cc1a5837",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "published": "2026-10-16",
+      "published_at": "2026-10-16T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-16T16:40:58Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -3348,56 +3390,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-16T11:26:27Z",
-    "last_success": "2026-10-16T11:26:27Z",
+    "last_attempt": "2026-10-16T16:40:58Z",
+    "last_success": "2026-10-16T16:40:58Z",
     "success_count": 8,
     "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": true,
-        "items": 5
+        "items": 4
       },
       {
         "id": "esa",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": true,
         "items": 10
       }
@@ -3406,7 +3448,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3415,7 +3457,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3424,31 +3466,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-16T11:26:27Z",
-        "digest": "ea4951bc7f799ebbbea976ea06cc768c3d1f1f3bb3a61f174989b1838fae0801",
+        "checked_at": "2026-10-16T16:40:58Z",
+        "digest": "40e2dd3a0641aefcf3fda6532140f4281298b9d542178afff731a02773058c39",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-10-16T04:33:48Z"
+        "changed_at": "2026-10-16T16:40:58Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-16T11:26:27Z",
-        "digest": "10d01e2a4a1aebf47410976cf210e941137a6c538e4bb8f558f2855b3459c438",
+        "checked_at": "2026-10-16T16:40:58Z",
+        "digest": "86f08402418ea709716408bea4a4286e8b0e689605fa914e5b8e932d3fcb8809",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-10-16T04:33:48Z"
+        "changed_at": "2026-10-16T16:40:58Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3457,7 +3499,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-16T11:26:27Z",
+        "attempted": "2026-10-16T16:40:58Z",
         "ok": false,
         "changed": false,
         "baseline": false,

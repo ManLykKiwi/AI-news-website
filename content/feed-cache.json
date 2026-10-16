@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-5357de9353ef4cacb3",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Artemis II Heat Shield After Splashdown",
+    "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown",
+    "published": "2026-10-16",
+    "published_at": "2026-10-16T16:28:01Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-16T16:40:58Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-6a63b3a96ec49dd065",
     "category": "engineering",
     "source": "NASA",
@@ -59,6 +80,27 @@
     "kind": "feed",
     "tags": [
       "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-c9a6184923cc1a5837",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "published": "2026-10-16",
+    "published_at": "2026-10-16T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-16T16:40:58Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
