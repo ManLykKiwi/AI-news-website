@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-6a63b3a96ec49dd065",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 16 – Chasing the International Space Station",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station",
+    "published": "2026-10-16",
+    "published_at": "2026-10-16T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-16T11:26:27Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-138e9b7e7d9747243a",
     "category": "ai",
     "source": "Hugging Face",
@@ -17,6 +38,27 @@
     "kind": "feed",
     "tags": [
       "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-a13336ed3116bc6329",
+    "category": "finance",
+    "source": "Bank for International Settlements",
+    "source_id": "bis",
+    "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
+    "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+    "published": "2026-10-16",
+    "published_at": "2026-10-16T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-16T11:26:27Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
