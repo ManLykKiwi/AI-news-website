@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-29660a1a941a2683cf",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+    "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director",
+    "published": "2026-10-16",
+    "published_at": "2026-10-16T20:14:39Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-16T21:10:21Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-5357de9353ef4cacb3",
     "category": "engineering",
     "source": "NASA",
@@ -94,6 +115,27 @@
     "published_at": "2026-10-16T00:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-16T16:40:58Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-9e63539289a31c8631",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "published": "2026-10-16",
+    "published_at": "2026-10-16T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-16T21:10:21Z",
     "summary": "",
     "why": "",
     "technical": "",
