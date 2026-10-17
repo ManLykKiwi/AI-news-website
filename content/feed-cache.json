@@ -21,6 +21,27 @@
     "editorial_status": "Publisher feed · not independently verified"
   },
   {
+    "id": "feed-9732b2763df5a67ab9",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "published": "2026-10-16",
+    "published_at": "2026-10-16T19:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-17T04:28:43Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-5357de9353ef4cacb3",
     "category": "engineering",
     "source": "NASA",
