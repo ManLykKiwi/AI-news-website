@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-06f5c3b3308e77d07f",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Christine Lagarde: IMFC Statement",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+    "published": "2026-10-17",
+    "published_at": "2026-10-17T05:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-17T10:46:30Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-178a4d548f348666a1",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 17 – 3D 67P",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p",
+    "published": "2026-10-17",
+    "published_at": "2026-10-17T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-17T10:46:30Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-29660a1a941a2683cf",
     "category": "engineering",
     "source": "NASA",
@@ -157,6 +199,27 @@
     "published_at": "2026-10-16T00:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-16T21:10:21Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-b6756c0a180ee55422",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "published": "2026-10-16",
+    "published_at": "2026-10-16T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-17T10:46:30Z",
     "summary": "",
     "why": "",
     "technical": "",
