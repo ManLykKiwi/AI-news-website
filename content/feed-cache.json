@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-05ac95315a4bdee018",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars",
+    "published": "2026-10-18",
+    "published_at": "2026-10-18T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-18T11:08:06Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-9692486eeb77934b28",
     "category": "engineering",
     "source": "MIT News",
