@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-9692486eeb77934b28",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Giving AI a “crystal clear” view of the materials world",
+    "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+    "published": "2026-10-18",
+    "published_at": "2026-10-18T04:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-18T04:36:05Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-06f5c3b3308e77d07f",
     "category": "finance",
     "source": "European Central Bank",
