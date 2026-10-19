@@ -250,6 +250,48 @@
       "featured": false
     },
     {
+      "id": "feed-4cbbb12986d95b7545",
+      "category": "engineering",
+      "source": "European Space Agency",
+      "source_id": "esa",
+      "title": "Space materials lab marks 10 years of innovation",
+      "url": "https://www.esa.int/Space_in_Member_States/United_Kingdom/Space_materials_lab_marks_10_years_of_innovation",
+      "published": "2026-10-19",
+      "published_at": "2026-10-19T09:48:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-19T13:18:44Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-6dad08c6a40d3fdea5",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+      "published": "2026-10-19",
+      "published_at": "2026-10-19T06:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-19T13:18:44Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-e5124c0745a1a06e4b",
       "category": "engineering",
       "source": "NASA",
@@ -3579,56 +3621,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-19T04:42:40Z",
-    "last_success": "2026-10-19T04:42:40Z",
+    "last_attempt": "2026-10-19T13:18:44Z",
+    "last_success": "2026-10-19T13:18:44Z",
     "success_count": 8,
     "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": true,
         "items": 6
       },
       {
         "id": "esa",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": true,
         "items": 10
       }
@@ -3637,7 +3679,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3646,7 +3688,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3655,11 +3697,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-19T04:42:40Z",
+        "checked_at": "2026-10-19T13:18:44Z",
         "digest": "27a271e51736bdcdd21186a2e12f801ca6ee461b81a692dce9655968f967677a",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-10-16T21:10:21Z"
@@ -3667,11 +3709,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-19T04:42:40Z",
+        "checked_at": "2026-10-19T13:18:44Z",
         "digest": "b3b5c2e7925e4730e816e0227b9c97540405acf9b83a77ced847eecd707e4fee",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-10-16T21:10:21Z"
@@ -3679,7 +3721,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3688,7 +3730,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-19T04:42:40Z",
+        "attempted": "2026-10-19T13:18:44Z",
         "ok": false,
         "changed": false,
         "baseline": false,
