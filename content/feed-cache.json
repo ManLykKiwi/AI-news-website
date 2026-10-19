@@ -1,5 +1,110 @@
 [
   {
+    "id": "feed-dacb6fe3b1c41ed3a0",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Improves Shock, Vibration Analysis",
+    "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis",
+    "published": "2026-10-19",
+    "published_at": "2026-10-19T19:28:32Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-19T22:22:32Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-8ec43f8608b1e69674",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Software",
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software",
+    "published": "2026-10-19",
+    "published_at": "2026-10-19T18:11:40Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-19T22:22:32Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-991d54b83b3570ec50",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Experimental Facilities",
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities",
+    "published": "2026-10-19",
+    "published_at": "2026-10-19T18:08:52Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-19T22:22:32Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-8e8b1766b3f19926fe",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+    "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat",
+    "published": "2026-10-19",
+    "published_at": "2026-10-19T18:01:51Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-19T22:22:32Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-c791b49c2359cf82ac",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Martian Dawn",
+    "url": "https://www.nasa.gov/image-article/martian-dawn",
+    "published": "2026-10-19",
+    "published_at": "2026-10-19T16:03:51Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-19T22:22:32Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-4cbbb12986d95b7545",
     "category": "engineering",
     "source": "European Space Agency",
@@ -59,6 +164,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-5c52b7d34becd1ccf7",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "published": "2026-10-19",
+    "published_at": "2026-10-19T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-19T22:22:32Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },

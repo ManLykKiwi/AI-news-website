@@ -250,6 +250,111 @@
       "featured": false
     },
     {
+      "id": "feed-dacb6fe3b1c41ed3a0",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Improves Shock, Vibration Analysis",
+      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis",
+      "published": "2026-10-19",
+      "published_at": "2026-10-19T19:28:32Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-19T22:22:32Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-8ec43f8608b1e69674",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Software",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software",
+      "published": "2026-10-19",
+      "published_at": "2026-10-19T18:11:40Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-19T22:22:32Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-991d54b83b3570ec50",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Experimental Facilities",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities",
+      "published": "2026-10-19",
+      "published_at": "2026-10-19T18:08:52Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-19T22:22:32Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-8e8b1766b3f19926fe",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+      "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat",
+      "published": "2026-10-19",
+      "published_at": "2026-10-19T18:01:51Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-19T22:22:32Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-c791b49c2359cf82ac",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Martian Dawn",
+      "url": "https://www.nasa.gov/image-article/martian-dawn",
+      "published": "2026-10-19",
+      "published_at": "2026-10-19T16:03:51Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-19T22:22:32Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-4cbbb12986d95b7545",
       "category": "engineering",
       "source": "European Space Agency",
@@ -309,6 +414,27 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-5c52b7d34becd1ccf7",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "2026-10-19",
+      "published_at": "2026-10-19T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-19T22:22:32Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -3621,56 +3747,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-19T13:18:44Z",
-    "last_success": "2026-10-19T13:18:44Z",
+    "last_attempt": "2026-10-19T22:22:32Z",
+    "last_success": "2026-10-19T22:22:32Z",
     "success_count": 8,
     "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": true,
-        "items": 6
+        "items": 8
       },
       {
         "id": "esa",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": true,
         "items": 10
       }
@@ -3679,7 +3805,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3688,7 +3814,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3697,31 +3823,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-19T13:18:44Z",
-        "digest": "27a271e51736bdcdd21186a2e12f801ca6ee461b81a692dce9655968f967677a",
+        "checked_at": "2026-10-19T22:22:32Z",
+        "digest": "64b5eea3b7edb6bc201db17a18b1f9f1ccbe8d6eeb41c1a406cd8ea1a572ca16",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-10-16T21:10:21Z"
+        "changed_at": "2026-10-19T22:22:32Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-19T13:18:44Z",
-        "digest": "b3b5c2e7925e4730e816e0227b9c97540405acf9b83a77ced847eecd707e4fee",
+        "checked_at": "2026-10-19T22:22:32Z",
+        "digest": "31b008106941995d6bb0dd6eade7b66a22d289f485b7eab465b7667a56f218d4",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-10-16T21:10:21Z"
+        "changed_at": "2026-10-19T22:22:32Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3730,7 +3856,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-19T13:18:44Z",
+        "attempted": "2026-10-19T22:22:32Z",
         "ok": false,
         "changed": false,
         "baseline": false,
