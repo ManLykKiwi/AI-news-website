@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-e5124c0745a1a06e4b",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source",
+    "published": "2026-10-19",
+    "published_at": "2026-10-19T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-19T04:42:40Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-05ac95315a4bdee018",
     "category": "engineering",
     "source": "NASA",
