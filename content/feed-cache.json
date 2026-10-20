@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-0de9b4c1021a7c35a8",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Frank Elderson: Interview with Die Presse",
+    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
+    "published": "2026-10-20",
+    "published_at": "2026-10-20T07:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-20T11:39:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-abde9540d76277486e",
     "category": "engineering",
     "source": "NASA",
@@ -17,6 +38,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-c2b4b68d7e0027f0e4",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "MPS in PyTorch 2.15",
+    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "published": "2026-10-20",
+    "published_at": "2026-10-20T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-20T11:39:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
