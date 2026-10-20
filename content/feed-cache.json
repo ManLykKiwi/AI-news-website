@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-abde9540d76277486e",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan",
+    "published": "2026-10-20",
+    "published_at": "2026-10-20T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-20T04:53:02Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-dacb6fe3b1c41ed3a0",
     "category": "engineering",
     "source": "NASA",
@@ -101,6 +122,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-1dbe22633003a2af4f",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Advancing coding in low‑resource programming languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "published": "2026-10-19",
+    "published_at": "2026-10-19T12:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-20T04:53:02Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
