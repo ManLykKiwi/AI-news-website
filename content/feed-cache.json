@@ -1,5 +1,89 @@
 [
   {
+    "id": "feed-100aa8250feea695c3",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Beaver Works Summer Institute: A leader in transformational STEM education",
+    "url": "https://news.mit.edu/2026/beaver-works-summer-institute-leader-in-transformational-stem-education-1020",
+    "published": "2026-10-20",
+    "published_at": "2026-10-20T21:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-20T21:38:25Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-05694927c60ab3949d",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+    "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland",
+    "published": "2026-10-20",
+    "published_at": "2026-10-20T20:21:36Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-15T17:03:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-e8a8161ff83426ef4f",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "published": "2026-10-20",
+    "published_at": "2026-10-20T18:17:47Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-20T21:38:25Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-2f953910c20328395f",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module",
+    "published": "2026-10-20",
+    "published_at": "2026-10-20T18:11:33Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-20T21:38:25Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-ef73bf2ace8ac67192",
     "category": "ai",
     "source": "Hugging Face",
@@ -80,6 +164,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-1725d137aa3debc0d8",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "published": "2026-10-20",
+    "published_at": "2026-10-20T10:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-20T21:38:25Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -178,6 +283,27 @@
     "published_at": "2026-10-20T00:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-20T17:09:00Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-1cfb6291fa158d05a5",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "OpenAI acquires Orchestra Bio",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "published": "2026-10-20",
+    "published_at": "2026-10-20T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-20T21:38:25Z",
     "summary": "",
     "why": "",
     "technical": "",
@@ -752,27 +878,6 @@
     "kind": "feed",
     "tags": [
       "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-05694927c60ab3949d",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-    "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland",
-    "published": "2026-10-15",
-    "published_at": "2026-10-15T16:42:10Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-15T17:03:17Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
