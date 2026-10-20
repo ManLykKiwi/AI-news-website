@@ -250,6 +250,90 @@
       "featured": false
     },
     {
+      "id": "feed-ef73bf2ace8ac67192",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "published": "2026-10-20",
+      "published_at": "2026-10-20T16:09:19Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-20T17:09:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-717885f71763239e63",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+      "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights",
+      "published": "2026-10-20",
+      "published_at": "2026-10-20T16:02:35Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-20T17:09:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-536f23cd94f139849c",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "published": "2026-10-20",
+      "published_at": "2026-10-20T15:19:48Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-20T17:09:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-e351f39e708cae8be6",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Provides Progress Update on Moon Base Rovers",
+      "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers",
+      "published": "2026-10-20",
+      "published_at": "2026-10-20T15:00:10Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-20T17:09:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-0de9b4c1021a7c35a8",
       "category": "finance",
       "source": "European Central Bank",
@@ -302,6 +386,48 @@
       "published_at": "2026-10-20T00:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-10-20T11:39:16Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-39e60f901a735303e0",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "published": "2026-10-20",
+      "published_at": "2026-10-20T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-20T17:09:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-41fb25a47d12d204a9",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "published": "2026-10-20",
+      "published_at": "2026-10-20T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-20T17:09:00Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -3831,56 +3957,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-20T11:39:16Z",
-    "last_success": "2026-10-20T11:39:16Z",
+    "last_attempt": "2026-10-20T17:09:00Z",
+    "last_success": "2026-10-20T17:09:00Z",
     "success_count": 8,
     "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": true,
-        "items": 7
+        "items": 6
       },
       {
         "id": "esa",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": true,
         "items": 10
       }
@@ -3889,7 +4015,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3898,7 +4024,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3907,11 +4033,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-20T11:39:16Z",
+        "checked_at": "2026-10-20T17:09:00Z",
         "digest": "64b5eea3b7edb6bc201db17a18b1f9f1ccbe8d6eeb41c1a406cd8ea1a572ca16",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-10-19T22:22:32Z"
@@ -3919,11 +4045,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-20T11:39:16Z",
+        "checked_at": "2026-10-20T17:09:00Z",
         "digest": "31b008106941995d6bb0dd6eade7b66a22d289f485b7eab465b7667a56f218d4",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-10-19T22:22:32Z"
@@ -3931,7 +4057,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -3940,7 +4066,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-20T11:39:16Z",
+        "attempted": "2026-10-20T17:09:00Z",
         "ok": false,
         "changed": false,
         "baseline": false,
