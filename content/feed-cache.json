@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-32694d7b05454b04f0",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+    "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T10:59:42Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T11:51:09Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-072d53504945317d1e",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T08:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T11:51:09Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-9d0c3f7fb6db288c84",
     "category": "finance",
     "source": "European Central Bank",
