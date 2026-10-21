@@ -250,6 +250,111 @@
       "featured": false
     },
     {
+      "id": "feed-2aebac73f26263738d",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+      "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T20:51:50Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T21:44:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-ebd5ed8eaec52f796d",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T18:35:56Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T21:44:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-94a5f6526eada9bc0f",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T18:26:30Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T21:44:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-40a01666d562060bfd",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T17:35:36Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T21:44:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-39cad894cdd240fbe2",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T17:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T21:44:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-5b4e08461387ba3b44",
       "category": "ai",
       "source": "Hugging Face",
@@ -554,6 +659,27 @@
       "published_at": "2026-10-21T04:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-10-21T04:50:16Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-e270f5ba4688033de0",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T21:44:02Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -4377,57 +4503,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-21T17:14:07Z",
-    "last_success": "2026-10-21T17:14:07Z",
-    "success_count": 7,
-    "failure_count": 1,
+    "last_attempt": "2026-10-21T21:44:02Z",
+    "last_success": "2026-10-21T21:44:02Z",
+    "success_count": 8,
+    "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": true,
         "items": 7
       },
       {
         "id": "esa",
-        "attempted": "2026-10-21T17:14:07Z",
-        "ok": false,
-        "items": 0,
-        "error": "Unsafe or oversized XML source"
+        "attempted": "2026-10-21T21:44:02Z",
+        "ok": true,
+        "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": true,
         "items": 9
       }
@@ -4436,7 +4561,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -4445,7 +4570,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -4454,11 +4579,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-21T17:14:07Z",
+        "checked_at": "2026-10-21T21:44:02Z",
         "digest": "64b5eea3b7edb6bc201db17a18b1f9f1ccbe8d6eeb41c1a406cd8ea1a572ca16",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-10-19T22:22:32Z"
@@ -4466,11 +4591,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-21T17:14:07Z",
+        "checked_at": "2026-10-21T21:44:02Z",
         "digest": "31b008106941995d6bb0dd6eade7b66a22d289f485b7eab465b7667a56f218d4",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-10-19T22:22:32Z"
@@ -4478,7 +4603,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -4487,7 +4612,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-21T17:14:07Z",
+        "attempted": "2026-10-21T21:44:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,

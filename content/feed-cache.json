@@ -1,5 +1,110 @@
 [
   {
+    "id": "feed-2aebac73f26263738d",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+    "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T20:51:50Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T21:44:02Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-ebd5ed8eaec52f796d",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+    "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T18:35:56Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T21:44:02Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-94a5f6526eada9bc0f",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T18:26:30Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T21:44:02Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-40a01666d562060bfd",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T17:35:36Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T21:44:02Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-39cad894cdd240fbe2",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "url": "https://openai.com/index/att-legal",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T17:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T21:44:02Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-5b4e08461387ba3b44",
     "category": "ai",
     "source": "Hugging Face",
@@ -304,6 +409,27 @@
     "published_at": "2026-10-21T04:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-21T04:50:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-e270f5ba4688033de0",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T21:44:02Z",
     "summary": "",
     "why": "",
     "technical": "",
