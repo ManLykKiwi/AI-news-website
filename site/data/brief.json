@@ -250,6 +250,153 @@
       "featured": false
     },
     {
+      "id": "feed-5b4e08461387ba3b44",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T16:04:43Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T17:14:07Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-bd459563b48b3a9aa8",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Tracks Along the Longest Drive on Another World",
+      "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T15:50:44Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T17:14:07Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-300b62bcde949bd1a9",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+      "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T15:05:08Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T17:14:07Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-c2ed162a157709f5cb",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T14:58:18Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T17:14:07Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-b1215e1aefc04c61e2",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T13:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T17:14:07Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-5c32755a71da49edb4",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T12:51:24Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T17:14:07Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-95dedf578de78f3ec2",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T12:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T17:14:07Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-32694d7b05454b04f0",
       "category": "ai",
       "source": "Hugging Face",
@@ -288,6 +435,69 @@
       "kind": "feed",
       "tags": [
         "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-de9db6f384cbc78877",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T07:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T17:14:07Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-ea92da5c121ecb4527",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T07:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T17:14:07Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-64ddfb139fec8a1cb4",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "published": "2026-10-21",
+      "published_at": "2026-10-21T04:50:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-21T17:14:07Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -4167,56 +4377,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-21T11:51:09Z",
-    "last_success": "2026-10-21T11:51:09Z",
-    "success_count": 8,
-    "failure_count": 0,
+    "last_attempt": "2026-10-21T17:14:07Z",
+    "last_success": "2026-10-21T17:14:07Z",
+    "success_count": 7,
+    "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": true,
-        "items": 6
+        "items": 7
       },
       {
         "id": "esa",
-        "attempted": "2026-10-21T11:51:09Z",
-        "ok": true,
-        "items": 10
+        "attempted": "2026-10-21T17:14:07Z",
+        "ok": false,
+        "items": 0,
+        "error": "Unsafe or oversized XML source"
       },
       {
         "id": "mit",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": true,
         "items": 9
       }
@@ -4225,7 +4436,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -4234,7 +4445,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -4243,11 +4454,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-21T11:51:09Z",
+        "checked_at": "2026-10-21T17:14:07Z",
         "digest": "64b5eea3b7edb6bc201db17a18b1f9f1ccbe8d6eeb41c1a406cd8ea1a572ca16",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-10-19T22:22:32Z"
@@ -4255,11 +4466,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-21T11:51:09Z",
+        "checked_at": "2026-10-21T17:14:07Z",
         "digest": "31b008106941995d6bb0dd6eade7b66a22d289f485b7eab465b7667a56f218d4",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-10-19T22:22:32Z"
@@ -4267,7 +4478,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -4276,7 +4487,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-21T11:51:09Z",
+        "attempted": "2026-10-21T17:14:07Z",
         "ok": false,
         "changed": false,
         "baseline": false,

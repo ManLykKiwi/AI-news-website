@@ -1,5 +1,152 @@
 [
   {
+    "id": "feed-5b4e08461387ba3b44",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T16:04:43Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T17:14:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-bd459563b48b3a9aa8",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Tracks Along the Longest Drive on Another World",
+    "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T15:50:44Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T17:14:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-300b62bcde949bd1a9",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+    "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T15:05:08Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T17:14:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-c2ed162a157709f5cb",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T14:58:18Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T17:14:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-b1215e1aefc04c61e2",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T13:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T17:14:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-5c32755a71da49edb4",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T12:51:24Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T17:14:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-95dedf578de78f3ec2",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T12:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T17:14:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-32694d7b05454b04f0",
     "category": "ai",
     "source": "Hugging Face",
@@ -38,6 +185,69 @@
     "kind": "feed",
     "tags": [
       "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-de9db6f384cbc78877",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T07:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T17:14:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-ea92da5c121ecb4527",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T07:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T17:14:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-64ddfb139fec8a1cb4",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "published": "2026-10-21",
+    "published_at": "2026-10-21T04:50:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-21T17:14:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
