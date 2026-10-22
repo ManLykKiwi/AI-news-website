@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-67297d2df9a3d7f196",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "published": "2026-10-22",
+    "published_at": "2026-10-22T16:11:31Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-22T17:11:59Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-10eeb32ae78b8fbc52",
     "category": "engineering",
     "source": "European Space Agency",
@@ -59,6 +80,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-6400feb681472530a6",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "What FDE means at OpenAI",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "published": "2026-10-22",
+    "published_at": "2026-10-22T06:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-22T17:11:59Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -143,6 +185,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-eda525050cea8fce4b",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "published": "2026-10-22",
+    "published_at": "2026-10-22T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-22T17:11:59Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
