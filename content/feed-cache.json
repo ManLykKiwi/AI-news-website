@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-10eeb32ae78b8fbc52",
+    "category": "engineering",
+    "source": "European Space Agency",
+    "source_id": "esa",
+    "title": "Help a lost lunar rover find its way in new ESA competition",
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Help_a_lost_lunar_rover_find_its_way_in_new_ESA_competition",
+    "published": "2026-10-22",
+    "published_at": "2026-10-22T11:10:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-22T11:54:54Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-0e5fad3ca5f8a881ac",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "published": "2026-10-22",
+    "published_at": "2026-10-22T07:51:31Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-22T11:54:54Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-310345bf5df78f844d",
+    "category": "engineering",
+    "source": "European Space Agency",
+    "source_id": "esa",
+    "title": "Moon crane to take a load off lunar landers",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers",
+    "published": "2026-10-22",
+    "published_at": "2026-10-22T07:45:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-22T11:54:54Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-3ee3d4d40990ac23f4",
     "category": "engineering",
     "source": "NASA",
