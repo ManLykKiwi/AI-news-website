@@ -250,6 +250,48 @@
       "featured": false
     },
     {
+      "id": "feed-ee4c22366ef7e7abd7",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published": "2026-10-23",
+      "published_at": "2026-10-23T17:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-23T17:08:55Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-5d794c3788a3a4be0d",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "published": "2026-10-23",
+      "published_at": "2026-10-23T16:15:50Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-23T17:08:55Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-98e7b12542dbe24cb1",
       "category": "finance",
       "source": "European Central Bank",
@@ -323,6 +365,27 @@
       "published_at": "2026-10-23T00:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-10-23T11:40:58Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-2b3f616d26d343fed7",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published": "2026-10-23",
+      "published_at": "2026-10-23T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-23T17:08:55Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -4923,56 +4986,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-23T11:40:58Z",
-    "last_success": "2026-10-23T11:40:58Z",
+    "last_attempt": "2026-10-23T17:08:55Z",
+    "last_success": "2026-10-23T17:08:55Z",
     "success_count": 8,
     "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": true,
         "items": 7
       },
       {
         "id": "esa",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": true,
         "items": 9
       }
@@ -4981,7 +5044,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -4990,7 +5053,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -4999,23 +5062,23 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-23T11:40:58Z",
-        "digest": "d76b4d50153698465741e6dfeadcd0f236120bc7239cd188f2c63bd896ccacaa",
+        "checked_at": "2026-10-23T17:08:55Z",
+        "digest": "73770ffb5eaa33654ae86abae4e1fa40bfa67163040d2cd31ee94874052ffa6c",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-10-22T17:11:59Z"
+        "changed_at": "2026-10-23T17:08:55Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-23T11:40:58Z",
+        "checked_at": "2026-10-23T17:08:55Z",
         "digest": "3d75d93d925557aa28cad31112eea56bec8b469c9b7d77c3a2fcf1728f0c0e3e",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-10-22T17:11:59Z"
@@ -5023,7 +5086,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -5032,7 +5095,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-23T11:40:58Z",
+        "attempted": "2026-10-23T17:08:55Z",
         "ok": false,
         "changed": false,
         "baseline": false,

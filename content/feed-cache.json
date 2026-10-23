@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-ee4c22366ef7e7abd7",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T17:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T17:08:55Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-5d794c3788a3a4be0d",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T16:15:50Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T17:08:55Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-98e7b12542dbe24cb1",
     "category": "finance",
     "source": "European Central Bank",
@@ -73,6 +115,27 @@
     "published_at": "2026-10-23T00:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-23T11:40:58Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-2b3f616d26d343fed7",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T17:08:55Z",
     "summary": "",
     "why": "",
     "technical": "",
