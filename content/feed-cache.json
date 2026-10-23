@@ -1,5 +1,89 @@
 [
   {
+    "id": "feed-156b7e3d250b5d780e",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T04:51:41Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-000b68dcd1349dc118",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Q&A: How AI came to model the “messy” human mind",
+    "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T04:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T04:51:41Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-51888f116f5b083740",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "published": "2026-10-22",
+    "published_at": "2026-10-22T22:24:34Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T04:51:41Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-2576df31f526b409ac",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium",
+    "published": "2026-10-22",
+    "published_at": "2026-10-22T21:39:58Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T04:51:41Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-5f1dd60d45c3c1d2cf",
     "category": "engineering",
     "source": "MIT News",
