@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-ac27dfac65773e5eab",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Gunter Stein, control systems and theory expert, dies at 84",
+    "url": "https://news.mit.edu/2026/gunter-stein-control-systems-theory-expert-dies-1023",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T18:25:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T21:25:41Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-ee4c22366ef7e7abd7",
     "category": "ai",
     "source": "OpenAI News",
@@ -31,6 +52,27 @@
     "published_at": "2026-10-23T16:15:50Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-23T17:08:55Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-f8c156dba788682638",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T10:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T21:25:41Z",
     "summary": "",
     "why": "",
     "technical": "",
