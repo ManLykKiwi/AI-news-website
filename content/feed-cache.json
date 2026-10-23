@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-98e7b12542dbe24cb1",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "ECB Consumer Expectations Survey results – September 2026",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T08:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T11:40:58Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-156b7e3d250b5d780e",
     "category": "engineering",
     "source": "NASA",
@@ -38,6 +59,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-1a543055a02f981651",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-23T11:40:58Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
