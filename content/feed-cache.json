@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-c67befbec2e4f8c2f5",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Piero Cipollone: Interview with Milano Finanza",
+    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+    "published": "2026-10-24",
+    "published_at": "2026-10-24T06:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-24T11:03:00Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-e1fabf65e2f56c085b",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie",
+    "published": "2026-10-24",
+    "published_at": "2026-10-24T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-24T11:03:00Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-c8aef14bcca24c1900",
     "category": "engineering",
     "source": "NASA",
