@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-c8aef14bcca24c1900",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+    "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T22:39:39Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-24T04:38:33Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-dcdc304d5bcb48c082",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+    "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T22:37:53Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-24T04:38:33Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-5d84031974c94ba7d9",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+    "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T21:51:19Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-24T04:38:33Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-ac27dfac65773e5eab",
     "category": "engineering",
     "source": "MIT News",
