@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-24cdde581a965df572",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "2026 October 26 – M42: The Great Nebula in Orion",
+    "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion",
+    "published": "2026-10-26",
+    "published_at": "2026-10-26T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-26T04:49:22Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-da556d91f2dc9c94a2",
     "category": "engineering",
     "source": "NASA",
@@ -4238,27 +4259,6 @@
     "kind": "feed",
     "tags": [
       "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-8dac41bb792a7722e5",
-    "category": "finance",
-    "source": "Bank for International Settlements",
-    "source_id": "bis",
-    "title": "Global economic pressure points call for policy discipline: BIS",
-    "url": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
-    "published": "2026-06-28",
-    "published_at": "2026-06-28T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
