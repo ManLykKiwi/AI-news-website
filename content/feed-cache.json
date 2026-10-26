@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-e68b407e57b5d54078",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+    "published": "2026-10-26",
+    "published_at": "2026-10-26T09:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-26T13:05:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-7a20fc27f00392604b",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
+    "published": "2026-10-26",
+    "published_at": "2026-10-26T05:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-26T13:05:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-24cdde581a965df572",
     "category": "engineering",
     "source": "NASA",
@@ -10,6 +52,27 @@
     "published_at": "2026-10-26T04:05:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-26T04:49:22Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-23928c472c6df700c9",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "2026 October 26 – M42: The Great Nebula in Orion",
+    "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion",
+    "published": "2026-10-26",
+    "published_at": "2026-10-26T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-26T13:05:37Z",
     "summary": "",
     "why": "",
     "technical": "",
