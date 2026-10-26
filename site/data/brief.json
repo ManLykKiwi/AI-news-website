@@ -250,6 +250,216 @@
       "featured": false
     },
     {
+      "id": "feed-a9c488820a62ac4adc",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T22:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-6d879a7a5c5c91f84d",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T21:07:28Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-30f1cefc18b249ef80",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T20:53:13Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-a8e302f318d0198e62",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T20:52:24Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-136484e28eca446ede",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T19:28:08Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-9a15b40232fdbf825a",
+      "category": "ai",
+      "source": "Google AI",
+      "source_id": "google",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T16:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-98f258cf1b4111c1f2",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA’s X-59 Aircraft and Test Pilot",
+      "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T15:25:47Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-8eb6001a836a6e50b8",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T14:30:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-7d972df501d01ba1f6",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T13:45:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-27334100e818b98514",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T10:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-e68b407e57b5d54078",
       "category": "finance",
       "source": "European Central Bank",
@@ -267,6 +477,48 @@
       "kind": "feed",
       "tags": [
         "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-7e73eebe3e909303c4",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T07:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-742d30efdc4090c11a",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T07:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -317,7 +569,7 @@
       "category": "engineering",
       "source": "NASA",
       "source_id": "nasa",
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
       "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion",
       "published": "2026-10-26",
       "published_at": "2026-10-26T04:05:00Z",
@@ -330,6 +582,27 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-35e334c198740f7416",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "published": "2026-10-26",
+      "published_at": "2026-10-26T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-26T22:41:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5217,56 +5490,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-26T13:05:37Z",
-    "last_success": "2026-10-26T13:05:37Z",
+    "last_attempt": "2026-10-26T22:41:00Z",
+    "last_success": "2026-10-26T22:41:00Z",
     "success_count": 8,
     "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": true,
         "items": 7
       },
       {
         "id": "esa",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": true,
         "items": 8
       }
@@ -5275,7 +5548,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -5284,7 +5557,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -5293,23 +5566,23 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-26T13:05:37Z",
-        "digest": "5280ea65e8e0849148747823569cbdf528d1248932b78a6085c5c8d7e13c05ca",
+        "checked_at": "2026-10-26T22:41:00Z",
+        "digest": "abbc56b8a3537af6971a8114e59986243eae7b622aace7f35b1a1af98b0ef55e",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-10-23T21:25:41Z"
+        "changed_at": "2026-10-26T22:41:00Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-26T13:05:37Z",
+        "checked_at": "2026-10-26T22:41:00Z",
         "digest": "34cc63054bfb644d6b89f90996f0c198c30976e41060f601cee1d32b9e2b27d5",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-10-23T21:25:41Z"
@@ -5317,7 +5590,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -5326,7 +5599,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-26T13:05:37Z",
+        "attempted": "2026-10-26T22:41:00Z",
         "ok": false,
         "changed": false,
         "baseline": false,
