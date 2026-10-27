@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-2380a3bfc4ef10bb0e",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+    "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T07:07:51Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T12:14:04Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-f2f5f7be2ec2229fc3",
     "category": "engineering",
     "source": "NASA",
@@ -38,6 +59,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-d1af0e9e9c8b89b7bc",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "October 2026 euro area bank lending survey",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T12:14:04Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
