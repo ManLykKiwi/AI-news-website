@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-f2f5f7be2ec2229fc3",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T05:07:30Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-8cedd51707f2b8e3c3",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Origami-based construction method yields lightweight, load-bearing structures on architectural scales",
+    "url": "https://news.mit.edu/2026/origami-based-construction-method-yields-lightweight-load-bearing-structures-architecture-1027",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T04:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T05:07:30Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-903612d439ffca9784",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+    "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis",
+    "published": "2026-10-26",
+    "published_at": "2026-10-26T22:48:12Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T05:07:30Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-a9c488820a62ac4adc",
     "category": "ai",
     "source": "OpenAI News",
