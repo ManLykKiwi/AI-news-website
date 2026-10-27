@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-3576ba8e09e7f10f34",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T19:27:22Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T22:15:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-f28bdb4f8cdcd0d9e1",
     "category": "engineering",
     "source": "NASA",
@@ -164,6 +185,27 @@
     "kind": "feed",
     "tags": [
       "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-c44dc9ed271ff418b1",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T22:15:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
