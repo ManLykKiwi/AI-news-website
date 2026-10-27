@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-f28bdb4f8cdcd0d9e1",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA’s Neo Surveyor Sunshade",
+    "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T17:58:57Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T18:03:06Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-1c5b51464767c2ad29",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Build specialized multimodal models with LFM3",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T17:16:52Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T18:03:06Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-1d6c5c59e46e52b936",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T16:12:42Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T18:03:06Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-2380a3bfc4ef10bb0e",
     "category": "engineering",
     "source": "NASA",
@@ -17,6 +80,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-c417f8e3d39d0b893c",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T07:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T18:03:06Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -766,6 +850,27 @@
     "published_at": "2026-10-23T00:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-23T17:08:55Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-3b5a2a6a27ab5490f8",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "url": "https://openai.com/index/anima",
+    "published": "2026-10-23",
+    "published_at": "2026-10-23T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-27T18:03:06Z",
     "summary": "",
     "why": "",
     "technical": "",

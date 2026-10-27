@@ -250,6 +250,69 @@
       "featured": false
     },
     {
+      "id": "feed-f28bdb4f8cdcd0d9e1",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade",
+      "published": "2026-10-27",
+      "published_at": "2026-10-27T17:58:57Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-27T18:03:06Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-1c5b51464767c2ad29",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "published": "2026-10-27",
+      "published_at": "2026-10-27T17:16:52Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-27T18:03:06Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-1d6c5c59e46e52b936",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "published": "2026-10-27",
+      "published_at": "2026-10-27T16:12:42Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-27T18:03:06Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-2380a3bfc4ef10bb0e",
       "category": "engineering",
       "source": "NASA",
@@ -267,6 +330,27 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-c417f8e3d39d0b893c",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "published": "2026-10-27",
+      "published_at": "2026-10-27T07:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-27T18:03:06Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -1016,6 +1100,27 @@
       "published_at": "2026-10-23T00:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-10-23T17:08:55Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-3b5a2a6a27ab5490f8",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "url": "https://openai.com/index/anima",
+      "published": "2026-10-23",
+      "published_at": "2026-10-23T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-27T18:03:06Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -5595,56 +5700,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-27T12:14:04Z",
-    "last_success": "2026-10-27T12:14:04Z",
+    "last_attempt": "2026-10-27T18:03:06Z",
+    "last_success": "2026-10-27T18:03:06Z",
     "success_count": 8,
     "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "esa",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": true,
         "items": 8
       }
@@ -5653,7 +5758,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -5662,7 +5767,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -5671,31 +5776,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-27T12:14:04Z",
-        "digest": "abbc56b8a3537af6971a8114e59986243eae7b622aace7f35b1a1af98b0ef55e",
+        "checked_at": "2026-10-27T18:03:06Z",
+        "digest": "7328386c5266e68ebec27977c4cf0802859f388de19142ca245cf81d26b8700f",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-10-26T22:41:00Z"
+        "changed_at": "2026-10-27T18:03:06Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-27T12:14:04Z",
-        "digest": "34cc63054bfb644d6b89f90996f0c198c30976e41060f601cee1d32b9e2b27d5",
+        "checked_at": "2026-10-27T18:03:06Z",
+        "digest": "b63dc192421732b68537ee9c77c76b73b6db546a2176a566b46ad0a041f60749",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-10-23T21:25:41Z"
+        "changed_at": "2026-10-27T18:03:06Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -5704,7 +5809,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-27T12:14:04Z",
+        "attempted": "2026-10-27T18:03:06Z",
         "ok": false,
         "changed": false,
         "baseline": false,
