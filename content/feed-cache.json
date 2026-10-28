@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-a9e27b8b436f0d6598",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca",
+    "published": "2026-10-28",
+    "published_at": "2026-10-28T05:39:46Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-28T05:44:36Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-ed9cb9e56822e19beb",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io",
+    "published": "2026-10-28",
+    "published_at": "2026-10-28T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-28T05:44:36Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-3576ba8e09e7f10f34",
     "category": "engineering",
     "source": "NASA",
@@ -73,6 +115,27 @@
     "published_at": "2026-10-27T16:12:42Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-27T18:03:06Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-1e3ebf94e41ebe1979",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "url": "https://openai.com/index/retell-ai",
+    "published": "2026-10-27",
+    "published_at": "2026-10-27T15:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-28T05:44:36Z",
     "summary": "",
     "why": "",
     "technical": "",
