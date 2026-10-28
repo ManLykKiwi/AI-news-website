@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-67c6b18b0a76451db8",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "published": "2026-10-28",
+    "published_at": "2026-10-28T09:30:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-28T12:57:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-a9e27b8b436f0d6598",
     "category": "engineering",
     "source": "NASA",
