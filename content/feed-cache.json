@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-0b4b10cb796c52ff97",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Magnetic sensors track muscle movement, for better prosthetic limb control",
+    "url": "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029",
+    "published": "2026-10-29",
+    "published_at": "2026-10-29T10:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-29T13:03:35Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-e0a79badc41504c72f",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "ECB President Lagarde to step down on 7 February 2027",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+    "published": "2026-10-29",
+    "published_at": "2026-10-29T10:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-29T13:03:35Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-8382e242923f3b28b1",
     "category": "engineering",
     "source": "NASA",
@@ -38,6 +80,48 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-6394645bd5105adc54",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "published": "2026-10-29",
+    "published_at": "2026-10-29T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-29T13:03:35Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-f9b9cf76d7a694d8d4",
+    "category": "finance",
+    "source": "Bank for International Settlements",
+    "source_id": "bis",
+    "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
+    "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
+    "published": "2026-10-29",
+    "published_at": "2026-10-29T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-29T13:03:35Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -4952,90 +5036,6 @@
     "kind": "feed",
     "tags": [
       "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-d60d413610c368252e",
-    "category": "engineering",
-    "source": "MIT News",
-    "source_id": "mit",
-    "title": "Robotic lab sets up and runs optics experiments on demand",
-    "url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
-    "published": "2026-09-17",
-    "published_at": "2026-09-17T04:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-14T21:42:31Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-dfe2f7f06070ffbc61",
-    "category": "ai",
-    "source": "Google AI",
-    "source_id": "google",
-    "title": "AI for Societal Impact",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-    "published": "2026-09-15",
-    "published_at": "2026-09-15T16:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-419a0d7bd8653188b6",
-    "category": "ai",
-    "source": "Google AI",
-    "source_id": "google",
-    "title": "Building AI to accelerate science and improve lives",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-    "published": "2026-09-15",
-    "published_at": "2026-09-15T16:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-7a00acf92df0c96e97",
-    "category": "ai",
-    "source": "Google AI",
-    "source_id": "google",
-    "title": "AI for everyone in every language",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-    "published": "2026-09-15",
-    "published_at": "2026-09-15T16:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
