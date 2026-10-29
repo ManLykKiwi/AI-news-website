@@ -250,6 +250,90 @@
       "featured": false
     },
     {
+      "id": "feed-9349f418e7bc7ab450",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T17:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-29T22:46:10Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-9eadc21a517cd05484",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T15:50:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-29T22:46:10Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-e508e29ae812fe586e",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T13:37:07Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-29T22:46:10Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-7b7f5adf10a3b9f7d2",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T13:15:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-29T22:46:10Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-0b4b10cb796c52ff97",
       "category": "engineering",
       "source": "MIT News",
@@ -288,6 +372,48 @@
       "kind": "feed",
       "tags": [
         "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-0f01adb2acab0a67ba",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T09:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-29T22:46:10Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-d948735545c20cf307",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T07:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-29T22:46:10Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -372,6 +498,48 @@
       "kind": "feed",
       "tags": [
         "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-718617961cab3abcc8",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-29T22:46:10Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-b6b30743068c26272d",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-29T22:46:10Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5099,174 +5267,6 @@
         "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-24d152f9cbff96fe4d",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "FUNdaMENTALs of precision design",
-      "url": "https://news.mit.edu/2026/fundamentals-precision-design-alex-slocum-0923",
-      "published": "2026-09-23",
-      "published_at": "2026-09-23T04:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-c8c55280189ac1b130",
-      "category": "finance",
-      "source": "Bank for International Settlements",
-      "source_id": "bis",
-      "title": "Basel III risk-based capital and leverage ratios are stable while liquidity indicators show limited movements for large internationally active banks, latest Basel III monitoring exercise shows",
-      "url": "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show",
-      "published": "2026-09-23",
-      "published_at": "2026-09-23T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-e1900e031cc192be1d",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "MIT named the nation’s top university by U.S. News for 2026-27",
-      "url": "https://news.mit.edu/2026/mit-named-nations-top-university-us-news-0922",
-      "published": "2026-09-22",
-      "published_at": "2026-09-22T04:01:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a79face44324947cbc",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "Batteries that safely break down in the GI tract could improve ingestible devices",
-      "url": "https://news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921",
-      "published": "2026-09-21",
-      "published_at": "2026-09-21T15:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-2ad49dd9b65fe3aef9",
-      "category": "ai",
-      "source": "Google AI",
-      "source_id": "google",
-      "title": "New experts join Google’s AI & Economy team",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "published": "2026-09-18",
-      "published_at": "2026-09-18T14:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-332bec2b752a921dc0",
-      "category": "ai",
-      "source": "Google AI",
-      "source_id": "google",
-      "title": "Co-creating the future of fashion with Google",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-      "published": "2026-09-18",
-      "published_at": "2026-09-18T13:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-57bb3f72439b837e28",
-      "category": "ai",
-      "source": "Google AI",
-      "source_id": "google",
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "published": "2026-09-17",
-      "published_at": "2026-09-17T20:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a03486c41a4fb7933c",
-      "category": "engineering",
-      "source": "European Space Agency",
-      "source_id": "esa",
-      "title": "Three space companies win ESA awards for excellence and innovation",
-      "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation",
-      "published": "2026-09-17",
-      "published_at": "2026-09-17T07:10:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5931,56 +5931,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-29T13:03:35Z",
-    "last_success": "2026-10-29T13:03:35Z",
-    "success_count": 8,
-    "failure_count": 0,
+    "last_attempt": "2026-10-29T22:46:10Z",
+    "last_success": "2026-10-29T22:46:10Z",
+    "success_count": 7,
+    "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-29T13:03:35Z",
-        "ok": true,
-        "items": 6
+        "attempted": "2026-10-29T22:46:10Z",
+        "ok": false,
+        "items": 0,
+        "error": "Unsafe or oversized XML source"
       },
       {
         "id": "esa",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": true,
         "items": 9
       }
@@ -5989,7 +5990,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -5998,7 +5999,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6007,31 +6008,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-29T13:03:35Z",
-        "digest": "245d9c5e4e708643f8f9c6c2144d1ae3d277b99ad919d42f843a96178b19e537",
+        "checked_at": "2026-10-29T22:46:10Z",
+        "digest": "73b3615255a513db95a1a737bd6f41fca885ca8f108082a6fb6c8a1299830daa",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-10-28T22:36:41Z"
+        "changed_at": "2026-10-29T22:46:10Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-10-29T13:03:35Z",
-        "digest": "44aa6fbea7d10965bd1e7d3599c01d23554006869156153dc353799f607809a7",
+        "checked_at": "2026-10-29T22:46:10Z",
+        "digest": "f000992b82f9af9271cfa9ccd1b8452d71d69ee09fb463edc9911ad0a37ec78c",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-10-28T22:36:41Z"
+        "changed_at": "2026-10-29T22:46:10Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6040,7 +6041,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-29T13:03:35Z",
+        "attempted": "2026-10-29T22:46:10Z",
         "ok": false,
         "changed": false,
         "baseline": false,
