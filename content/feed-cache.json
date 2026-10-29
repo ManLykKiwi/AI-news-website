@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-8382e242923f3b28b1",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 29 October 2026 – The Horns of Venus",
+    "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus",
+    "published": "2026-10-29",
+    "published_at": "2026-10-29T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-29T05:49:44Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-eebb713fe02cdf43c3",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+    "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy",
+    "published": "2026-10-29",
+    "published_at": "2026-10-29T02:49:59Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-29T05:49:44Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-ec2503a37a6c87978f",
     "category": "engineering",
     "source": "NASA",
@@ -4985,48 +5027,6 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
     "published": "2026-09-15",
     "published_at": "2026-09-15T16:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-64730bcdfc3a35229b",
-    "category": "ai",
-    "source": "Google AI",
-    "source_id": "google",
-    "title": "New insights from Google’s AI & Economy ATLAS",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-    "published": "2026-09-15",
-    "published_at": "2026-09-15T13:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-ff082bc32dcf39bfd2",
-    "category": "ai",
-    "source": "Google AI",
-    "source_id": "google",
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-    "published": "2026-09-14",
-    "published_at": "2026-09-14T19:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-13T14:13:08Z",
     "summary": "",
