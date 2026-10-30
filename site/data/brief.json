@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-10-29",
+    "edition_date": "2026-10-30",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -250,6 +250,111 @@
       "featured": false
     },
     {
+      "id": "feed-4a7112d2f79c11dcd6",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "MIT engineers create nanoparticles for delivering personalized cancer vaccines",
+      "url": "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030",
+      "published": "2026-10-30",
+      "published_at": "2026-10-30T04:30:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-30T05:51:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-7cf97945aa6283b855",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare",
+      "published": "2026-10-30",
+      "published_at": "2026-10-30T04:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-30T05:51:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-c546feec3ff82ee7e2",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001",
+      "published": "2026-10-30",
+      "published_at": "2026-10-30T00:07:39Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-30T05:51:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-f3e9ae8c2f1a5665b5",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Halloween Aboard the International Space Station",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T21:44:23Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-30T05:51:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-8e1b5d99dbee8b9bde",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T18:00:35Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-30T05:51:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-9349f418e7bc7ab450",
       "category": "ai",
       "source": "OpenAI News",
@@ -288,6 +393,27 @@
       "kind": "feed",
       "tags": [
         "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-f75e45971bfd7d45b3",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+      "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission",
+      "published": "2026-10-29",
+      "published_at": "2026-10-29T15:10:18Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-30T05:51:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5141,132 +5267,6 @@
         "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-6fb8d323a664475248",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "New formulation helps RNA vaccines withstand high temperatures",
-      "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
-      "published": "2026-09-28",
-      "published_at": "2026-09-28T09:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-5c77df4fb7b982a4e1",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "A new technique could accelerate the development of RNA therapies",
-      "url": "https://news.mit.edu/2026/new-technique-could-accelerate-development-rna-therapies-0925",
-      "published": "2026-09-25",
-      "published_at": "2026-09-25T17:25:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-e7ce7395a6b2ee0875",
-      "category": "engineering",
-      "source": "European Space Agency",
-      "source_id": "esa",
-      "title": "MIRROR robot reflects future of in-orbit assembly",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly",
-      "published": "2026-09-25",
-      "published_at": "2026-09-25T07:45:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-0f96c4c3174c88d7b7",
-      "category": "engineering",
-      "source": "European Space Agency",
-      "source_id": "esa",
-      "title": "New tests for rendezvous and docking interoperability",
-      "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/New_tests_for_rendezvous_and_docking_interoperability",
-      "published": "2026-09-24",
-      "published_at": "2026-09-24T13:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a3d64d68a37343535a",
-      "category": "engineering",
-      "source": "European Space Agency",
-      "source_id": "esa",
-      "title": "Record participation in ESA’s Industry Space Days 2026",
-      "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026",
-      "published": "2026-09-24",
-      "published_at": "2026-09-24T07:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-8772414765b134fe3b",
-      "category": "ai",
-      "source": "Google AI",
-      "source_id": "google",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
-      "published": "2026-09-23",
-      "published_at": "2026-09-23T18:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5931,57 +5931,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-29T22:46:10Z",
-    "last_success": "2026-10-29T22:46:10Z",
-    "success_count": 7,
-    "failure_count": 1,
+    "last_attempt": "2026-10-30T05:51:02Z",
+    "last_success": "2026-10-30T05:51:02Z",
+    "success_count": 8,
+    "failure_count": 0,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-29T22:46:10Z",
-        "ok": false,
-        "items": 0,
-        "error": "Unsafe or oversized XML source"
+        "attempted": "2026-10-30T05:51:02Z",
+        "ok": true,
+        "items": 5
       },
       {
         "id": "esa",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": true,
         "items": 9
       }
@@ -5990,7 +5989,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -5999,7 +5998,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6008,11 +6007,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-29T22:46:10Z",
+        "checked_at": "2026-10-30T05:51:02Z",
         "digest": "73b3615255a513db95a1a737bd6f41fca885ca8f108082a6fb6c8a1299830daa",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-10-29T22:46:10Z"
@@ -6020,11 +6019,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-29T22:46:10Z",
+        "checked_at": "2026-10-30T05:51:02Z",
         "digest": "f000992b82f9af9271cfa9ccd1b8452d71d69ee09fb463edc9911ad0a37ec78c",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-10-29T22:46:10Z"
@@ -6032,7 +6031,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6041,7 +6040,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-29T22:46:10Z",
+        "attempted": "2026-10-30T05:51:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
