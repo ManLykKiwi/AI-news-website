@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-de6d65e3030fdaab6c",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "November’s Night Sky Notes: Light-Day Away",
+    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away",
+    "published": "2026-10-30",
+    "published_at": "2026-10-30T10:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-30T12:57:46Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-e7ad213e30394acdb9",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+    "published": "2026-10-30",
+    "published_at": "2026-10-30T09:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-30T12:57:46Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-4a7112d2f79c11dcd6",
     "category": "engineering",
     "source": "MIT News",
@@ -4985,48 +5027,6 @@
     "url": "https://huggingface.co/blog/open-tts-leaderboard",
     "published": "2026-09-30",
     "published_at": "2026-09-30T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-529d2e7d05c7435496",
-    "category": "engineering",
-    "source": "MIT News",
-    "source_id": "mit",
-    "title": "Powered by muscle cells, a paper-thin robot swims through watery maze",
-    "url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929",
-    "published": "2026-09-29",
-    "published_at": "2026-09-29T04:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-7ba7170e114ec367c0",
-    "category": "ai",
-    "source": "Google AI",
-    "source_id": "google",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-    "published": "2026-09-28",
-    "published_at": "2026-09-28T19:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-13T14:13:08Z",
     "summary": "",
