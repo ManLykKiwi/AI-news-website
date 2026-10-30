@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-037154e824aaff256e",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "nemotron-halloween",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "published": "2026-10-30",
+    "published_at": "2026-10-30T17:57:24Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-30T22:22:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-ebe3120c8047d0837b",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Philip R. Lane: AI adoption in Europe",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+    "published": "2026-10-30",
+    "published_at": "2026-10-30T16:10:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-30T22:22:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-116cf971800a3bfb4c",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+    "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+    "published": "2026-10-30",
+    "published_at": "2026-10-30T14:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-30T22:22:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-de6d65e3030fdaab6c",
     "category": "engineering",
     "source": "NASA",
@@ -21,6 +84,27 @@
     "editorial_status": "Publisher feed · not independently verified"
   },
   {
+    "id": "feed-84abd1857de5dfd951",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Making it easier for websites to express AI training preferences",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "published": "2026-10-30",
+    "published_at": "2026-10-30T09:30:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-30T22:22:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-e7ad213e30394acdb9",
     "category": "finance",
     "source": "European Central Bank",
@@ -38,6 +122,27 @@
     "kind": "feed",
     "tags": [
       "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-a86d24c59c826150d1",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Community safety report and new protections for teens",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "published": "2026-10-30",
+    "published_at": "2026-10-30T09:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-30T22:22:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -101,6 +206,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-574dbaf7fc8731e405",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Fair use benefits everyone",
+    "url": "https://openai.com/index/fair-use-benefits-everyone",
+    "published": "2026-10-30",
+    "published_at": "2026-10-30T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-30T22:22:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -451,6 +577,27 @@
     "published_at": "2026-10-29T00:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-29T22:46:10Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-85f94c0fe8f02a8178",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "url": "https://openai.com/index/credit-saison",
+    "published": "2026-10-29",
+    "published_at": "2026-10-29T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-30T22:22:16Z",
     "summary": "",
     "why": "",
     "technical": "",
@@ -4880,153 +5027,6 @@
     "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "published": "2026-10-02",
     "published_at": "2026-10-02T04:01:31Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-948785e80d375de044",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Isabel Schnabel: Central banks on-chain",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
-    "published": "2026-10-01",
-    "published_at": "2026-10-01T15:30:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-1a51741a0c7f69915f",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Christine Lagarde: Where AI risks meet",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
-    "published": "2026-10-01",
-    "published_at": "2026-10-01T13:30:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-4b73806933a5980d53",
-    "category": "engineering",
-    "source": "European Space Agency",
-    "source_id": "esa",
-    "title": "Tiny thrusters 3D-printed in space",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Tiny_thrusters_3D-printed_in_space",
-    "published": "2026-10-01",
-    "published_at": "2026-10-01T12:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-100c66d18dacd4784f",
-    "category": "finance",
-    "source": "Bank for International Settlements",
-    "source_id": "bis",
-    "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
-    "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
-    "published": "2026-10-01",
-    "published_at": "2026-10-01T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-37fb4e445537c81283",
-    "category": "finance",
-    "source": "Bank for International Settlements",
-    "source_id": "bis",
-    "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
-    "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
-    "published": "2026-10-01",
-    "published_at": "2026-10-01T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-c4fef6aa5954e2ec89",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Christine Lagarde: Interview with La Croix",
-    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-    "published": "2026-09-30",
-    "published_at": "2026-09-30T17:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-74c2ff7e2707d1f610",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "url": "https://huggingface.co/blog/open-tts-leaderboard",
-    "published": "2026-09-30",
-    "published_at": "2026-09-30T00:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-13T14:13:08Z",
     "summary": "",
