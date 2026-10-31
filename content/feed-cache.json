@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-e6da576f1b1a6c97a0",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet",
+    "published": "2026-10-31",
+    "published_at": "2026-10-31T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-10-31T05:44:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-037154e824aaff256e",
     "category": "ai",
     "source": "Hugging Face",
@@ -5015,27 +5036,6 @@
     "kind": "feed",
     "tags": [
       "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-56c490db040147f1de",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "published": "2026-10-02",
-    "published_at": "2026-10-02T04:01:31Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }

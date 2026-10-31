@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-10-30",
+    "edition_date": "2026-10-31",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -248,6 +248,27 @@
       "editorial_status": "AI-assisted · source-linked",
       "checked": "2026-10-12",
       "featured": false
+    },
+    {
+      "id": "feed-e6da576f1b1a6c97a0",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet",
+      "published": "2026-10-31",
+      "published_at": "2026-10-31T04:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-10-31T05:44:16Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
     },
     {
       "id": "feed-037154e824aaff256e",
@@ -5246,27 +5267,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-56c490db040147f1de",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "published": "2026-10-02",
-      "published_at": "2026-10-02T04:01:31Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5931,65 +5931,66 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-10-30T22:22:16Z",
-    "last_success": "2026-10-30T22:22:16Z",
-    "success_count": 8,
-    "failure_count": 0,
+    "last_attempt": "2026-10-31T05:44:16Z",
+    "last_success": "2026-10-31T05:44:16Z",
+    "success_count": 7,
+    "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": true,
-        "items": 4
+        "items": 5
       },
       {
         "id": "esa",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-10-30T22:22:16Z",
-        "ok": true,
-        "items": 9
+        "attempted": "2026-10-31T05:44:16Z",
+        "ok": false,
+        "items": 0,
+        "error": "No RSS/Atom entries found (the source may have changed)"
       }
     ],
     "documents": [
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -5998,7 +5999,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6007,11 +6008,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-30T22:22:16Z",
+        "checked_at": "2026-10-31T05:44:16Z",
         "digest": "114c7b77a59f82b935101061246adec98d3b2ac4d68dd2ae89dadbbf6fe03620",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-10-30T22:22:16Z"
@@ -6019,11 +6020,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-10-30T22:22:16Z",
+        "checked_at": "2026-10-31T05:44:16Z",
         "digest": "9fa0b66c593d808dea43f68ef5ef031ff046cabd894c4648a15fb33cc558d8e2",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-10-30T22:22:16Z"
@@ -6031,7 +6032,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6040,7 +6041,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-10-30T22:22:16Z",
+        "attempted": "2026-10-31T05:44:16Z",
         "ok": false,
         "changed": false,
         "baseline": false,
