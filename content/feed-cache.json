@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-7b620b8ee23e792e1f",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 1 – Colors of the Moon",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
+    "published": "2026-11-01",
+    "published_at": "2026-11-01T04:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-01T06:08:00Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-e6da576f1b1a6c97a0",
     "category": "engineering",
     "source": "NASA",
@@ -5015,27 +5036,6 @@
     "kind": "feed",
     "tags": [
       "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-7906480b6a44509ea3",
-    "category": "engineering",
-    "source": "European Space Agency",
-    "source_id": "esa",
-    "title": "GOMX-5 successfully launched",
-    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/GOMX-5_successfully_launched",
-    "published": "2026-10-02",
-    "published_at": "2026-10-02T07:28:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
