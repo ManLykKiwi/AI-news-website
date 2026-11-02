@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-97484297c8c94a4b95",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-02T06:06:15Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-09573cf26432bf09b4",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "MIT engineers design a safer, more efficient vaccination system for farmed fish",
+    "url": "https://news.mit.edu/2026/mit-engineers-design-safer-more-efficient-vaccination-system-farmed-fish-1102",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T05:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-02T06:06:15Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-7b620b8ee23e792e1f",
     "category": "engineering",
     "source": "NASA",
@@ -4994,48 +5036,6 @@
     "kind": "feed",
     "tags": [
       "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-2837bd77bb1bb24927",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-    "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
-    "published": "2026-10-02",
-    "published_at": "2026-10-02T13:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-17fa26efe52cb0c248",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
-    "published": "2026-10-02",
-    "published_at": "2026-10-02T11:30:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
