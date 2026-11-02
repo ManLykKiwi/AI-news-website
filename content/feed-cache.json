@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-5d33ed0c66ace544e6",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T15:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-02T15:56:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-8ab749438eee347af7",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "A flexible new route to designer materials built from nanoparticles",
+    "url": "https://news.mit.edu/2026/flexible-new-route-designer-materials-from-nanoparticles-1102",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T10:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-02T15:56:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-9452bef5142f4608cd",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T09:30:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-02T15:56:01Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-97484297c8c94a4b95",
     "category": "engineering",
     "source": "NASA",
@@ -4973,69 +5036,6 @@
     "kind": "feed",
     "tags": [
       "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-8f74351edbea6ace74",
-    "category": "finance",
-    "source": "Bank for International Settlements",
-    "source_id": "bis",
-    "title": "Basel III applicable in almost all member jurisdictions by 2027",
-    "url": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027",
-    "published": "2026-10-05",
-    "published_at": "2026-10-05T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-bd1136d0fcfd6f1357",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "published": "2026-10-03",
-    "published_at": "2026-10-03T22:56:48Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-aacb8ca8a4a96bc0cf",
-    "category": "ai",
-    "source": "Google AI",
-    "source_id": "google",
-    "title": "The latest AI news we announced in September 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-    "published": "2026-10-02",
-    "published_at": "2026-10-02T15:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
