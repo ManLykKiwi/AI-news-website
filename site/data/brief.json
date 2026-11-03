@@ -250,6 +250,69 @@
       "featured": false
     },
     {
+      "id": "feed-8d86676710497099b1",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "published": "2026-11-03",
+      "published_at": "2026-11-03T17:15:21Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-4d3938441f216409a8",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "published": "2026-11-03",
+      "published_at": "2026-11-03T16:35:36Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-25493a43cba550c7fe",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "published": "2026-11-03",
+      "published_at": "2026-11-03T12:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-fc87a45dcfbf03d417",
       "category": "ai",
       "source": "OpenAI News",
@@ -267,6 +330,48 @@
       "kind": "feed",
       "tags": [
         "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-34e7d62615202d0de6",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "published": "2026-11-03",
+      "published_at": "2026-11-03T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-90c08f78aa09ed892a",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor",
+      "published": "2026-11-03",
+      "published_at": "2026-11-03T05:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -292,6 +397,69 @@
       "editorial_status": "Publisher feed · not independently verified"
     },
     {
+      "id": "feed-019edb616369c3322f",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "published": "2026-11-03",
+      "published_at": "2026-11-03T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-63945bc79480974982",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "published": "2026-11-03",
+      "published_at": "2026-11-03T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-94e58e2186eada314c",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T21:35:59Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-5fc0241e25c90db0d1",
       "category": "engineering",
       "source": "MIT News",
@@ -302,6 +470,48 @@
       "published_at": "2026-11-02T19:55:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-11-03T00:59:17Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-b6e6022f064e27b840",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T18:50:42Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-ba964a97582490024f",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T18:19:58Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -372,6 +582,27 @@
       "kind": "feed",
       "tags": [
         "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-127f8e3326e95eafdc",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T17:33:22Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-03T23:24:31Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5057,237 +5288,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-d9e485b409fe8517ac",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "published": "2026-10-08",
-      "published_at": "2026-10-08T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-ffd2818196374b7e8d",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "published": "2026-10-08",
-      "published_at": "2026-10-08T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-39d2fed3d43463e525",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "published": "2026-10-07",
-      "published_at": "2026-10-07T20:55:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-88e871d5a8d26738db",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "published": "2026-10-07",
-      "published_at": "2026-10-07T16:54:33Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-16b7810afb00bdc03c",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "published": "2026-10-07",
-      "published_at": "2026-10-07T13:21:03Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-67f5f61696a2949df2",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "published": "2026-10-07",
-      "published_at": "2026-10-07T12:45:31Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-661f64ddb5f472a267",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "published": "2026-10-07",
-      "published_at": "2026-10-07T12:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-e04d1da693503b0f12",
-      "category": "ai",
-      "source": "Google AI",
-      "source_id": "google",
-      "title": "Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "published": "2026-10-07",
-      "published_at": "2026-10-07T12:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-37feb5895869b98515",
-      "category": "engineering",
-      "source": "European Space Agency",
-      "source_id": "esa",
-      "title": "When the Sun turns black",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black",
-      "published": "2026-10-07",
-      "published_at": "2026-10-07T08:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a8eb6bf790b7286498",
-      "category": "finance",
-      "source": "European Central Bank",
-      "source_id": "ecb",
-      "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
-      "published": "2026-10-07",
-      "published_at": "2026-10-07T08:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-4e324623ab7ca6fee0",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "published": "2026-10-07",
-      "published_at": "2026-10-07T07:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-03T14:17:27Z",
-    "last_success": "2026-11-03T14:17:27Z",
-    "success_count": 6,
-    "failure_count": 2,
+    "last_attempt": "2026-11-03T23:24:31Z",
+    "last_success": "2026-11-03T23:24:31Z",
+    "success_count": 7,
+    "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-03T14:17:27Z",
-        "ok": false,
-        "items": 0,
-        "error": "Unsafe or oversized XML source"
+        "attempted": "2026-11-03T23:24:31Z",
+        "ok": true,
+        "items": 5
       },
       {
         "id": "esa",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": false,
         "items": 0,
         "error": "No RSS/Atom entries found (the source may have changed)"
@@ -6012,7 +6011,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6021,7 +6020,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6030,11 +6029,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-03T14:17:27Z",
+        "checked_at": "2026-11-03T23:24:31Z",
         "digest": "7935938cc72a4960c8120530dc998c04b0ecf5a3ded89be434ac4604614eec3c",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-11-03T00:59:17Z"
@@ -6042,11 +6041,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-03T14:17:27Z",
+        "checked_at": "2026-11-03T23:24:31Z",
         "digest": "b4b3e133b91582d0268b87fb30dd99dd673b42b05a98613caa5a2c7687ebea22",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-03T00:59:17Z"
@@ -6054,7 +6053,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6063,7 +6062,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-03T14:17:27Z",
+        "attempted": "2026-11-03T23:24:31Z",
         "ok": false,
         "changed": false,
         "baseline": false,
