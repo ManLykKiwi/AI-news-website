@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-5fc0241e25c90db0d1",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Powering up for a pivotal moment",
+    "url": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T19:55:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-03T00:59:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-996c88dfa31d64c0a9",
+    "category": "ai",
+    "source": "Google AI",
+    "source_id": "google",
+    "title": "The latest AI news we announced in October 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T17:45:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-03T00:59:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-277870ffc8d71544c0",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T15:30:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-03T00:59:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-5d33ed0c66ace544e6",
     "category": "ai",
     "source": "OpenAI News",
@@ -63,6 +126,27 @@
     "editorial_status": "Publisher feed · not independently verified"
   },
   {
+    "id": "feed-5a014341bc3fc0f1d8",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "LifeVal",
+    "url": "https://openai.com/index/lifeval",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T09:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-03T00:59:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-97484297c8c94a4b95",
     "category": "engineering",
     "source": "NASA",
@@ -101,6 +185,48 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-4094d4340f9e66f9e2",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-03T00:59:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-945f879ef3a469b4ae",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "published": "2026-11-02",
+    "published_at": "2026-11-02T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-03T00:59:17Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -4901,132 +5027,6 @@
     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
     "published": "2026-10-06",
     "published_at": "2026-10-06T13:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-83020bb1c63ef28c45",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-    "published": "2026-10-06",
-    "published_at": "2026-10-06T13:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-ebb413cc5359756bf9",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "url": "https://openai.com/index/jump-trading",
-    "published": "2026-10-06",
-    "published_at": "2026-10-06T12:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-00427e47df5ef30645",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Sharing AI progress in mathematics",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "published": "2026-10-06",
-    "published_at": "2026-10-06T12:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-6e91d203ed24e70873",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Philip R. Lane: Interview with Ansa",
-    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-    "published": "2026-10-06",
-    "published_at": "2026-10-06T07:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-4b831667b765e3207c",
-    "category": "engineering",
-    "source": "European Space Agency",
-    "source_id": "esa",
-    "title": "Presentations at Industry Space Days",
-    "url": "https://isd.esa.int/home/programme",
-    "published": "2026-10-05",
-    "published_at": "2026-10-05T11:47:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-f4c67ec69a48b6b67d",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-    "published": "2026-10-05",
-    "published_at": "2026-10-05T08:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-13T14:13:08Z",
     "summary": "",
