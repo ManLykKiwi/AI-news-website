@@ -250,6 +250,111 @@
       "featured": false
     },
     {
+      "id": "feed-cc6901236979e72040",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications",
+      "published": "2026-11-04",
+      "published_at": "2026-11-04T18:00:02Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-04T19:46:21Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-32d4e91d243ef07f07",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "published": "2026-11-04",
+      "published_at": "2026-11-04T17:50:10Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-04T19:46:21Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-e4e032431b184aa8db",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings",
+      "published": "2026-11-04",
+      "published_at": "2026-11-04T16:52:43Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-04T19:46:21Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-1be4fdd8e6ca80f0ec",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "published": "2026-11-04",
+      "published_at": "2026-11-04T14:30:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-04T19:46:21Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-a3433e936d2c04bfa7",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "published": "2026-11-04",
+      "published_at": "2026-11-04T07:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-04T19:46:21Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-acc301e7ba339cf754",
       "category": "engineering",
       "source": "NASA",
@@ -309,6 +414,27 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-995a2369a7ff72f62b",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "published": "2026-11-04",
+      "published_at": "2026-11-04T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-04T19:46:21Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5162,132 +5288,6 @@
         "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-570fe3204556675e8d",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "published": "2026-10-09",
-      "published_at": "2026-10-09T07:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-9bf93d58cc35db9987",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "published": "2026-10-09",
-      "published_at": "2026-10-09T07:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-15c9d1f159b657b84f",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "Shape-sensing sheet digitally tracks its movement as it bends and twists",
-      "url": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
-      "published": "2026-10-08",
-      "published_at": "2026-10-08T18:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-db7b9e6fe248e3146f",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "published": "2026-10-08",
-      "published_at": "2026-10-08T16:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-855092fba1df7e8a66",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "published": "2026-10-08",
-      "published_at": "2026-10-08T12:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-45d6a2b79938283a07",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "published": "2026-10-08",
-      "published_at": "2026-10-08T12:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,56 +5952,56 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-04T06:24:37Z",
-    "last_success": "2026-11-04T06:24:37Z",
+    "last_attempt": "2026-11-04T19:46:21Z",
+    "last_success": "2026-11-04T19:46:21Z",
     "success_count": 7,
     "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": true,
         "items": 4
       },
       {
         "id": "esa",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "mit",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": false,
         "items": 0,
         "error": "No RSS/Atom entries found (the source may have changed)"
@@ -6011,7 +6011,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6020,7 +6020,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6029,31 +6029,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-04T06:24:37Z",
-        "digest": "bbe9624d66fac90f3f12f23d67320ac8dd0f96f6bba089d16f4b543d68f105e8",
+        "checked_at": "2026-11-04T19:46:21Z",
+        "digest": "7532b350961999cd3891f91427775bce41beff7136cdda64a189ba4c37395c27",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-11-04T06:24:37Z"
+        "changed_at": "2026-11-04T19:46:21Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-04T06:24:37Z",
-        "digest": "50a5c29b69f44c8c0e65fcd7b7589972f202a4705d5ae7b7e54d3dcdf255dd53",
+        "checked_at": "2026-11-04T19:46:21Z",
+        "digest": "98fd94280b9ed50422d9563a1a8b767df030b013885f20b3fe6183a7dce9b241",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-11-04T06:24:37Z"
+        "changed_at": "2026-11-04T19:46:21Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6062,7 +6062,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-04T06:24:37Z",
+        "attempted": "2026-11-04T19:46:21Z",
         "ok": false,
         "changed": false,
         "baseline": false,

@@ -1,5 +1,110 @@
 [
   {
+    "id": "feed-cc6901236979e72040",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+    "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications",
+    "published": "2026-11-04",
+    "published_at": "2026-11-04T18:00:02Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-04T19:46:21Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-32d4e91d243ef07f07",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "published": "2026-11-04",
+    "published_at": "2026-11-04T17:50:10Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-04T19:46:21Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-e4e032431b184aa8db",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings",
+    "published": "2026-11-04",
+    "published_at": "2026-11-04T16:52:43Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-04T19:46:21Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-1be4fdd8e6ca80f0ec",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "published": "2026-11-04",
+    "published_at": "2026-11-04T14:30:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-04T19:46:21Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-a3433e936d2c04bfa7",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "published": "2026-11-04",
+    "published_at": "2026-11-04T07:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-04T19:46:21Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-acc301e7ba339cf754",
     "category": "engineering",
     "source": "NASA",
@@ -59,6 +164,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-995a2369a7ff72f62b",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+    "published": "2026-11-04",
+    "published_at": "2026-11-04T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-04T19:46:21Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -4901,132 +5027,6 @@
     "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
     "published": "2026-10-09",
     "published_at": "2026-10-09T15:20:29Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-570fe3204556675e8d",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
-    "published": "2026-10-09",
-    "published_at": "2026-10-09T07:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-9bf93d58cc35db9987",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "url": "https://openai.com/index/asana-browser-agent",
-    "published": "2026-10-09",
-    "published_at": "2026-10-09T07:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-15c9d1f159b657b84f",
-    "category": "engineering",
-    "source": "MIT News",
-    "source_id": "mit",
-    "title": "Shape-sensing sheet digitally tracks its movement as it bends and twists",
-    "url": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
-    "published": "2026-10-08",
-    "published_at": "2026-10-08T18:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-db7b9e6fe248e3146f",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "url": "https://openai.com/index/oracle",
-    "published": "2026-10-08",
-    "published_at": "2026-10-08T16:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-855092fba1df7e8a66",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "url": "https://openai.com/index/pollo-ai",
-    "published": "2026-10-08",
-    "published_at": "2026-10-08T12:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-13T14:13:08Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-45d6a2b79938283a07",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "LegalOn halves Codex costs while maintaining development speed",
-    "url": "https://openai.com/index/legalon-halves-codex-costs",
-    "published": "2026-10-08",
-    "published_at": "2026-10-08T12:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-13T14:13:08Z",
     "summary": "",
