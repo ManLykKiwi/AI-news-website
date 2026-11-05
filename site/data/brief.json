@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-11-04",
+    "edition_date": "2026-11-05",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -250,6 +250,69 @@
       "featured": false
     },
     {
+      "id": "feed-8f73d19c713edd8561",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T05:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T06:48:29Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-87631feae5b67cf18c",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "Clearing up a robot’s fuzzy memory",
+      "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T05:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T06:48:29Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-e16e941453c8c7a414",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T01:43:21Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T06:48:29Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-cc6901236979e72040",
       "category": "engineering",
       "source": "NASA",
@@ -323,6 +386,27 @@
       "published_at": "2026-11-04T14:30:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-11-04T19:46:21Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-fbaa86a829ad59fd10",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "published": "2026-11-04",
+      "published_at": "2026-11-04T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T06:48:29Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -435,6 +519,48 @@
       "kind": "feed",
       "tags": [
         "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-295354ff422b0d4db9",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "published": "2026-11-04",
+      "published_at": "2026-11-04T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T06:48:29Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-981785a01550309d07",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "published": "2026-11-04",
+      "published_at": "2026-11-04T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T06:48:29Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5162,132 +5288,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-0765f367a276695358",
-      "category": "finance",
-      "source": "Bank for International Settlements",
-      "source_id": "bis",
-      "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
-      "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-f49806e648203e3247",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
-      "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research",
-      "published": "2026-10-12",
-      "published_at": "2026-10-12T17:45:27Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-dfecbaa7cd4849d785",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "APOD: 2026 October 12 – Jupiter and the Moons",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons",
-      "published": "2026-10-12",
-      "published_at": "2026-10-12T04:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-f5183f6ff8c05371be",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos",
-      "published": "2026-10-11",
-      "published_at": "2026-10-11T04:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-b5c109cca896d75505",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "APOD: 2026 October 10 – Lunar Farside",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside",
-      "published": "2026-10-10",
-      "published_at": "2026-10-10T04:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-e05551817b225bef5e",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "published": "2026-10-09",
-      "published_at": "2026-10-09T15:20:29Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,56 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-04T19:46:21Z",
-    "last_success": "2026-11-04T19:46:21Z",
-    "success_count": 7,
-    "failure_count": 1,
+    "last_attempt": "2026-11-05T06:48:29Z",
+    "last_success": "2026-11-05T06:48:29Z",
+    "success_count": 6,
+    "failure_count": 2,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": true,
-        "items": 4
+        "items": 5
       },
       {
         "id": "esa",
-        "attempted": "2026-11-04T19:46:21Z",
-        "ok": true,
-        "items": 10
+        "attempted": "2026-11-05T06:48:29Z",
+        "ok": false,
+        "items": 0,
+        "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": false,
         "items": 0,
         "error": "No RSS/Atom entries found (the source may have changed)"
@@ -6011,7 +6012,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6020,7 +6021,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6029,11 +6030,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-04T19:46:21Z",
+        "checked_at": "2026-11-05T06:48:29Z",
         "digest": "7532b350961999cd3891f91427775bce41beff7136cdda64a189ba4c37395c27",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-11-04T19:46:21Z"
@@ -6041,11 +6042,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-04T19:46:21Z",
+        "checked_at": "2026-11-05T06:48:29Z",
         "digest": "98fd94280b9ed50422d9563a1a8b767df030b013885f20b3fe6183a7dce9b241",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-04T19:46:21Z"
@@ -6053,7 +6054,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6062,7 +6063,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-04T19:46:21Z",
+        "attempted": "2026-11-05T06:48:29Z",
         "ok": false,
         "changed": false,
         "baseline": false,
