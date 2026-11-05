@@ -250,6 +250,111 @@
       "featured": false
     },
     {
+      "id": "feed-f25b9201ad6bdcc6fc",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T19:35:16Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T19:58:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-485654c1f98a7cdcb6",
+      "category": "ai",
+      "source": "Google AI",
+      "source_id": "google",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T17:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T19:58:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-14e90e72d3401ddf81",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T09:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T19:58:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-b35bb5aa079a54146d",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T19:58:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-d6f8534e0e4ef3d0e1",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "Piero Cipollone: Shaping the future of money",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T07:30:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T19:58:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-8f73d19c713edd8561",
       "category": "engineering",
       "source": "NASA",
@@ -292,6 +397,27 @@
       "editorial_status": "Publisher feed · not independently verified"
     },
     {
+      "id": "feed-25fa4dd18ec78a48a9",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T02:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T19:58:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-e16e941453c8c7a414",
       "category": "engineering",
       "source": "NASA",
@@ -309,6 +435,27 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-c65c7708e93995ca45",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-05T19:58:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5141,153 +5288,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-56a71af4425d567fe8",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL",
-      "url": "https://science.nasa.gov/photojournal/voyager-technologies-griffin-1-completes-environmental-testing-at-nasa-jpl",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T17:11:11Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T22:46:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-53911f98c21c784fce",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T17:05:48Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T22:46:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-ed1be8ea5f53c7373a",
-      "category": "ai",
-      "source": "Google AI",
-      "source_id": "google",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T16:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T22:46:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-996b79babe601422f5",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T13:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-8d45898e533e591d42",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T12:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T22:46:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-97e1e09cfe9b2e4642",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T11:12:18Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-8aa465f54d5a70898f",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T04:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T14:13:08Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-05T06:48:29Z",
-    "last_success": "2026-11-05T06:48:29Z",
+    "last_attempt": "2026-11-05T19:58:02Z",
+    "last_success": "2026-11-05T19:58:02Z",
     "success_count": 6,
     "failure_count": 2,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": true,
-        "items": 5
+        "items": 4
       },
       {
         "id": "esa",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": false,
         "items": 0,
         "error": "No RSS/Atom entries found (the source may have changed)"
@@ -6012,7 +6012,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6021,7 +6021,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6030,31 +6030,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-05T06:48:29Z",
-        "digest": "7532b350961999cd3891f91427775bce41beff7136cdda64a189ba4c37395c27",
+        "checked_at": "2026-11-05T19:58:02Z",
+        "digest": "f427556023b48baa1bff27b8e83317e210c6363a2cbfe56283802c3437bbf5a4",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-11-04T19:46:21Z"
+        "changed_at": "2026-11-05T19:58:02Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-05T06:48:29Z",
-        "digest": "98fd94280b9ed50422d9563a1a8b767df030b013885f20b3fe6183a7dce9b241",
+        "checked_at": "2026-11-05T19:58:02Z",
+        "digest": "b47a2c07e2497fb7dcc0ebaa70502fc326beffcf416303a4df3949b3d51c7554",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-11-04T19:46:21Z"
+        "changed_at": "2026-11-05T19:58:02Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6063,7 +6063,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-05T06:48:29Z",
+        "attempted": "2026-11-05T19:58:02Z",
         "ok": false,
         "changed": false,
         "baseline": false,
