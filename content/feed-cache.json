@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-5a90caffb2c87d2e6e",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "url": "https://huggingface.co/blog/allenai/toyblocks",
+    "published": "2026-11-06",
+    "published_at": "2026-11-06T14:00:48Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-06T19:25:22Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-308c455948d25aeb81",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "ECB publishes consolidated banking data for end-June 2026",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+    "published": "2026-11-06",
+    "published_at": "2026-11-06T09:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-06T19:25:22Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-a0a44ed09dc9a1089b",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "published": "2026-11-06",
+    "published_at": "2026-11-06T08:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-06T19:25:22Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-89a92c97d83383c64d",
     "category": "engineering",
     "source": "NASA",
@@ -17,6 +80,48 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-5f721228af3682c241",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "published": "2026-11-06",
+    "published_at": "2026-11-06T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-06T19:25:22Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-13e4c95dcbaa6d3409",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "published": "2026-11-06",
+    "published_at": "2026-11-06T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-06T19:25:22Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -4931,111 +5036,6 @@
     "kind": "feed",
     "tags": [
       "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-004cd593adabcd24c9",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "url": "https://openai.com/index/sentinelone",
-    "published": "2026-10-14",
-    "published_at": "2026-10-14T12:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-14T21:42:31Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-a8b8c31de898145e14",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "url": "https://openai.com/index/third-moment-research",
-    "published": "2026-10-14",
-    "published_at": "2026-10-14T07:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-14T17:12:01Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-94ee28b93f9d2d8303",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "url": "https://openai.com/index/block-ai-powered-security",
-    "published": "2026-10-14",
-    "published_at": "2026-10-14T07:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-15T04:41:42Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-200a5d3dd39c6bfb7a",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "The EU’s next chapter in AI is agentic",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "published": "2026-10-14",
-    "published_at": "2026-10-14T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-14T11:54:44Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-9b6e93b48f207022f8",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
-    "published": "2026-10-14",
-    "published_at": "2026-10-14T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-14T11:54:44Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
