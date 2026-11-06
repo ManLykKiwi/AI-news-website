@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-11-05",
+    "edition_date": "2026-11-06",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -250,6 +250,48 @@
       "featured": false
     },
     {
+      "id": "feed-89a92c97d83383c64d",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift",
+      "published": "2026-11-06",
+      "published_at": "2026-11-06T05:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-06T06:49:17Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-bbd492caba72ca544b",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T20:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-06T06:49:17Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-f25b9201ad6bdcc6fc",
       "category": "ai",
       "source": "Hugging Face",
@@ -281,6 +323,27 @@
       "published_at": "2026-11-05T17:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-11-05T19:58:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-616c68177b707eae60",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T17:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-06T06:49:17Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -330,6 +393,27 @@
       "kind": "feed",
       "tags": [
         "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-db9792e954d4470109",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-06T06:49:17Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -439,6 +523,27 @@
       "editorial_status": "Publisher feed · not independently verified"
     },
     {
+      "id": "feed-2d1d326185a62641be",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T00:45:15Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-06T06:49:17Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-c65c7708e93995ca45",
       "category": "ai",
       "source": "Hugging Face",
@@ -449,6 +554,27 @@
       "published_at": "2026-11-05T00:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-11-05T19:58:02Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-a8e215d1c3fca63aee",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "url": "https://openai.com/index/franklin-templeton",
+      "published": "2026-11-05",
+      "published_at": "2026-11-05T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-06T06:49:17Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -5162,132 +5288,6 @@
         "finance"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-818b3a081587b402b7",
-      "category": "finance",
-      "source": "Bank for International Settlements",
-      "source_id": "bis",
-      "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
-      "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
-      "published": "2026-10-14",
-      "published_at": "2026-10-14T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-14T11:54:44Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-d62f8061a15e4206d8",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
-      "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T20:41:11Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T22:46:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-2c9018217f53767354",
-      "category": "finance",
-      "source": "European Central Bank",
-      "source_id": "ecb",
-      "title": "Philip R. Lane: The AI opportunity for Europe",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T18:30:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T22:46:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-7f7c0dea674c467af6",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA’s Record-Setting Perseverance Rover Team",
-      "url": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T17:48:46Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T22:46:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-ab5f1fab23a311541e",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "Perseverance Navcam Image Marks Record Drive",
-      "url": "https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T17:42:51Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T22:46:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-395481ff01334270e3",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "Transporter-18 SmallSats Encapsulation",
-      "url": "https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation",
-      "published": "2026-10-13",
-      "published_at": "2026-10-13T17:38:37Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-13T22:46:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-05T19:58:02Z",
-    "last_success": "2026-11-05T19:58:02Z",
+    "last_attempt": "2026-11-06T06:49:17Z",
+    "last_success": "2026-11-06T06:49:17Z",
     "success_count": 6,
     "failure_count": 2,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": true,
         "items": 4
       },
       {
         "id": "esa",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": false,
         "items": 0,
         "error": "No RSS/Atom entries found (the source may have changed)"
@@ -6012,7 +6012,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6021,7 +6021,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6030,11 +6030,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-05T19:58:02Z",
+        "checked_at": "2026-11-06T06:49:17Z",
         "digest": "f427556023b48baa1bff27b8e83317e210c6363a2cbfe56283802c3437bbf5a4",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-11-05T19:58:02Z"
@@ -6042,11 +6042,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-05T19:58:02Z",
+        "checked_at": "2026-11-06T06:49:17Z",
         "digest": "b47a2c07e2497fb7dcc0ebaa70502fc326beffcf416303a4df3949b3d51c7554",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-05T19:58:02Z"
@@ -6054,7 +6054,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6063,7 +6063,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-05T19:58:02Z",
+        "attempted": "2026-11-06T06:49:17Z",
         "ok": false,
         "changed": false,
         "baseline": false,
