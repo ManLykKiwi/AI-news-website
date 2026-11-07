@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-9f7215bf24ee128182",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif",
+    "published": "2026-11-07",
+    "published_at": "2026-11-07T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-07T05:59:35Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-d1104ad8e14a506f77",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Fabric molds could bring material-saving concrete beams within reach",
+    "url": "https://news.mit.edu/2026/fabric-molds-could-bring-material-saving-concrete-beams-within-reach-1106",
+    "published": "2026-11-06",
+    "published_at": "2026-11-06T19:35:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-07T05:59:35Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-5a90caffb2c87d2e6e",
     "category": "ai",
     "source": "Hugging Face",
@@ -4994,48 +5036,6 @@
     "kind": "feed",
     "tags": [
       "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-3fa0bfa68880e9dde1",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
-    "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions",
-    "published": "2026-10-14",
-    "published_at": "2026-10-14T13:32:25Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-14T17:12:01Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-57c3309db5bedcdec4",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "published": "2026-10-14",
-    "published_at": "2026-10-14T12:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-14T17:12:01Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
