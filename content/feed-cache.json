@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-db559fb332acc86803",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+    "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
+    "published": "2026-11-07",
+    "published_at": "2026-11-07T18:11:57Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-07T21:52:13Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-b9dcd2ec498515901e",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+    "published": "2026-11-07",
+    "published_at": "2026-11-07T14:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-07T21:52:13Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-9f7215bf24ee128182",
     "category": "engineering",
     "source": "NASA",
@@ -4987,48 +5029,6 @@
     "published_at": "2026-10-14T20:13:29Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-14T21:42:31Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-504a28fcb44d1a3d50",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "published": "2026-10-14",
-    "published_at": "2026-10-14T16:12:42Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-14T17:12:01Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-bf71316e9c6549ffd7",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA’s Space X CRS-35 Launch Jellyfish",
-    "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish",
-    "published": "2026-10-14",
-    "published_at": "2026-10-14T15:18:38Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-14T17:12:01Z",
     "summary": "",
     "why": "",
     "technical": "",
