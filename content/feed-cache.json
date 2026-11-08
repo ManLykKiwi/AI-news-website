@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-4d1edc58dbf944a956",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor",
+    "published": "2026-11-08",
+    "published_at": "2026-11-08T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-08T06:03:42Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-7fccb3522d0d3bf297",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
+    "published": "2026-11-07",
+    "published_at": "2026-11-07T22:47:03Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-08T06:03:42Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-db559fb332acc86803",
     "category": "engineering",
     "source": "NASA",
@@ -4994,48 +5036,6 @@
     "kind": "feed",
     "tags": [
       "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-94eadcab22c41e356a",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "url": "https://openai.com/index/sullivan-cromwell",
-    "published": "2026-10-15",
-    "published_at": "2026-10-15T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-16T04:33:48Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-1e38e2859466937fde",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
-    "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101",
-    "published": "2026-10-14",
-    "published_at": "2026-10-14T20:13:29Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-14T21:42:31Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
