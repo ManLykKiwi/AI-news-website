@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-11-08",
+    "edition_date": "2026-11-09",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -248,6 +248,69 @@
       "editorial_status": "AI-assisted · source-linked",
       "checked": "2026-10-12",
       "featured": false
+    },
+    {
+      "id": "feed-026599d1fc59a62422",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula",
+      "published": "2026-11-09",
+      "published_at": "2026-11-09T05:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-09T06:32:39Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-6fbb9cbc09ce7eb4c3",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "published": "2026-11-09",
+      "published_at": "2026-11-09T05:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-09T06:32:39Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-f2b130fea883df692e",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "published": "2026-11-09",
+      "published_at": "2026-11-09T05:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-09T06:32:39Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
     },
     {
       "id": "feed-4d1edc58dbf944a956",
@@ -5225,69 +5288,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-41eb8051a9c2c0bc5b",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan",
-      "published": "2026-10-15",
-      "published_at": "2026-10-15T04:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-15T04:41:42Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-eb67409897ed2136a7",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3",
-      "published": "2026-10-15",
-      "published_at": "2026-10-15T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-15T17:03:17Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-ff0cf28c5d75305710",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "published": "2026-10-15",
-      "published_at": "2026-10-15T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-15T21:24:18Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-08T22:07:26Z",
-    "last_success": "2026-11-08T22:07:26Z",
+    "last_attempt": "2026-11-09T06:32:39Z",
+    "last_success": "2026-11-09T06:32:39Z",
     "success_count": 6,
     "failure_count": 2,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": true,
-        "items": 5
+        "items": 6
       },
       {
         "id": "esa",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": false,
         "items": 0,
         "error": "No RSS/Atom entries found (the source may have changed)"
@@ -6012,7 +6012,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6021,7 +6021,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6030,11 +6030,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-08T22:07:26Z",
+        "checked_at": "2026-11-09T06:32:39Z",
         "digest": "d861ff3689b8445a3cd9e73f2471c15c2b2e686f1d41c75d0c9fcc95efa91520",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-11-07T21:52:13Z"
@@ -6042,11 +6042,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-08T22:07:26Z",
+        "checked_at": "2026-11-09T06:32:39Z",
         "digest": "4e659a150b80aa39eb5a423e336bb70bf747dcb6406258f125a48f76bc8de652",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-07T21:52:13Z"
@@ -6054,7 +6054,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6063,7 +6063,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-08T22:07:26Z",
+        "attempted": "2026-11-09T06:32:39Z",
         "ok": false,
         "changed": false,
         "baseline": false,

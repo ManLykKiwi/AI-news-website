@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-026599d1fc59a62422",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula",
+    "published": "2026-11-09",
+    "published_at": "2026-11-09T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-09T06:32:39Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-6fbb9cbc09ce7eb4c3",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+    "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+    "published": "2026-11-09",
+    "published_at": "2026-11-09T05:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-09T06:32:39Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-f2b130fea883df692e",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+    "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+    "published": "2026-11-09",
+    "published_at": "2026-11-09T05:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-09T06:32:39Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-4d1edc58dbf944a956",
     "category": "engineering",
     "source": "NASA",
@@ -4973,69 +5036,6 @@
     "kind": "feed",
     "tags": [
       "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-41eb8051a9c2c0bc5b",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan",
-    "published": "2026-10-15",
-    "published_at": "2026-10-15T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-15T04:41:42Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-eb67409897ed2136a7",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "url": "https://huggingface.co/blog/flux-3",
-    "published": "2026-10-15",
-    "published_at": "2026-10-15T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-15T17:03:17Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-ff0cf28c5d75305710",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "url": "https://huggingface.co/blog/meta-muse-spark-open",
-    "published": "2026-10-15",
-    "published_at": "2026-10-15T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-15T21:24:18Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
