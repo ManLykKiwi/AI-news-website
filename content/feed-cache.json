@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-6077b114a81316c8b1",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T07:20:24Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-fc400f5c232b380e47",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T01:07:45Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T07:20:24Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-caa9073cefb43725f1",
     "category": "ai",
     "source": "OpenAI News",
@@ -4987,48 +5029,6 @@
     "published_at": "2026-10-16T01:44:47Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-16T04:33:48Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-a13336ed3116bc6329",
-    "category": "finance",
-    "source": "Bank for International Settlements",
-    "source_id": "bis",
-    "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
-    "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
-    "published": "2026-10-16",
-    "published_at": "2026-10-16T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-16T11:26:27Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-c9a6184923cc1a5837",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "url": "https://huggingface.co/blog/reflection-beam",
-    "published": "2026-10-16",
-    "published_at": "2026-10-16T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-16T16:40:58Z",
     "summary": "",
     "why": "",
     "technical": "",

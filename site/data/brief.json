@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-11-09",
+    "edition_date": "2026-11-10",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -248,6 +248,48 @@
       "editorial_status": "AI-assisted · source-linked",
       "checked": "2026-10-12",
       "featured": false
+    },
+    {
+      "id": "feed-6077b114a81316c8b1",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon",
+      "published": "2026-11-10",
+      "published_at": "2026-11-10T05:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-10T07:20:24Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-fc400f5c232b380e47",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up",
+      "published": "2026-11-10",
+      "published_at": "2026-11-10T01:07:45Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-10T07:20:24Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
     },
     {
       "id": "feed-caa9073cefb43725f1",
@@ -5246,48 +5288,6 @@
         "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a13336ed3116bc6329",
-      "category": "finance",
-      "source": "Bank for International Settlements",
-      "source_id": "bis",
-      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
-      "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
-      "published": "2026-10-16",
-      "published_at": "2026-10-16T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-16T11:26:27Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-c9a6184923cc1a5837",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "published": "2026-10-16",
-      "published_at": "2026-10-16T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-16T16:40:58Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-09T22:23:11Z",
-    "last_success": "2026-11-09T22:23:11Z",
+    "last_attempt": "2026-11-10T07:20:24Z",
+    "last_success": "2026-11-10T07:20:24Z",
     "success_count": 6,
     "failure_count": 2,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": true,
-        "items": 6
+        "items": 4
       },
       {
         "id": "esa",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": false,
         "items": 0,
         "error": "No RSS/Atom entries found (the source may have changed)"
@@ -6012,7 +6012,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6021,7 +6021,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6030,11 +6030,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-09T22:23:11Z",
+        "checked_at": "2026-11-10T07:20:24Z",
         "digest": "20135a453b31a1242f16a5ff1e821a940e06e70b051291efc970cdc76b68744d",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-11-09T22:23:11Z"
@@ -6042,11 +6042,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-09T22:23:11Z",
+        "checked_at": "2026-11-10T07:20:24Z",
         "digest": "ff0fda174642b53be3ed6a5364f92cbc3cf7210f48a7d956f82e60cde091c95b",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-09T22:23:11Z"
@@ -6054,7 +6054,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6063,7 +6063,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-09T22:23:11Z",
+        "attempted": "2026-11-10T07:20:24Z",
         "ok": false,
         "changed": false,
         "baseline": false,
