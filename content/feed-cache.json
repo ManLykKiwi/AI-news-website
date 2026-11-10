@@ -1,5 +1,257 @@
 [
   {
+    "id": "feed-c45c5c281dd2928f93",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T19:22:45Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-fafff4292c09fd9370",
+    "category": "ai",
+    "source": "Google AI",
+    "source_id": "google",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T19:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-6103d40234ae10198e",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+    "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T18:06:33Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-e3471b85e9068b8b99",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T16:45:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-c56871ec8d71c1c076",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "CHAPEA Crew Leaves a Mark",
+    "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T14:57:55Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-e192e4f92a704298f9",
+    "category": "ai",
+    "source": "Google AI",
+    "source_id": "google",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T14:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-461728c10cfa467f40",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T14:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-c979be8e72cc92b8a0",
+    "category": "ai",
+    "source": "Google AI",
+    "source_id": "google",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T13:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-0f0020abcf733229d2",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T12:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-991ad48e8559b2fefa",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Introducing Businesses in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T10:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-69d4d9d74efa01629a",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T09:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-f3fc54cd1d78c100d6",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T07:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-6077b114a81316c8b1",
     "category": "engineering",
     "source": "NASA",
@@ -38,6 +290,69 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-cb93d68b445c05b0e3",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-5f3963726dbe36e6cc",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Decision Models in Hugging Face",
+    "url": "https://huggingface.co/blog/decision",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-f68ff2001655f186fb",
+    "category": "finance",
+    "source": "Bank for International Settlements",
+    "source_id": "bis",
+    "title": "Appointments to BIS global payments standard-setting body and Consultative Council for the Americas",
+    "url": "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas",
+    "published": "2026-11-10",
+    "published_at": "2026-11-10T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-10T19:44:37Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -4721,321 +5036,6 @@
     "kind": "feed",
     "tags": [
       "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-c791b49c2359cf82ac",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "Martian Dawn",
-    "url": "https://www.nasa.gov/image-article/martian-dawn",
-    "published": "2026-10-19",
-    "published_at": "2026-10-19T16:03:51Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-19T22:22:32Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-1dbe22633003a2af4f",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Advancing coding in low‑resource programming languages",
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "published": "2026-10-19",
-    "published_at": "2026-10-19T12:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-20T04:53:02Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-4cbbb12986d95b7545",
-    "category": "engineering",
-    "source": "European Space Agency",
-    "source_id": "esa",
-    "title": "Space materials lab marks 10 years of innovation",
-    "url": "https://www.esa.int/Space_in_Member_States/United_Kingdom/Space_materials_lab_marks_10_years_of_innovation",
-    "published": "2026-10-19",
-    "published_at": "2026-10-19T09:48:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-19T13:18:44Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-6dad08c6a40d3fdea5",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-    "published": "2026-10-19",
-    "published_at": "2026-10-19T06:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-19T13:18:44Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-e5124c0745a1a06e4b",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source",
-    "published": "2026-10-19",
-    "published_at": "2026-10-19T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-19T04:42:40Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-5c52b7d34becd1ccf7",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "url": "https://huggingface.co/blog/hf-torchneuron",
-    "published": "2026-10-19",
-    "published_at": "2026-10-19T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-19T22:22:32Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-05ac95315a4bdee018",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars",
-    "published": "2026-10-18",
-    "published_at": "2026-10-18T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-18T11:08:06Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-9692486eeb77934b28",
-    "category": "engineering",
-    "source": "MIT News",
-    "source_id": "mit",
-    "title": "Giving AI a “crystal clear” view of the materials world",
-    "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-    "published": "2026-10-18",
-    "published_at": "2026-10-18T04:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-18T04:36:05Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-06f5c3b3308e77d07f",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Christine Lagarde: IMFC Statement",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-    "published": "2026-10-17",
-    "published_at": "2026-10-17T05:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-17T10:46:30Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-178a4d548f348666a1",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 October 17 – 3D 67P",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p",
-    "published": "2026-10-17",
-    "published_at": "2026-10-17T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-17T10:46:30Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-29660a1a941a2683cf",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
-    "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director",
-    "published": "2026-10-16",
-    "published_at": "2026-10-16T20:14:39Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-16T21:10:21Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-9732b2763df5a67ab9",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "url": "https://openai.com/index/itau-generative-ai",
-    "published": "2026-10-16",
-    "published_at": "2026-10-16T19:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-17T04:28:43Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-5357de9353ef4cacb3",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "Artemis II Heat Shield After Splashdown",
-    "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown",
-    "published": "2026-10-16",
-    "published_at": "2026-10-16T16:28:01Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-16T16:40:58Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-6a63b3a96ec49dd065",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 October 16 – Chasing the International Space Station",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station",
-    "published": "2026-10-16",
-    "published_at": "2026-10-16T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-16T11:26:27Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-138e9b7e7d9747243a",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "published": "2026-10-16",
-    "published_at": "2026-10-16T01:44:47Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-16T04:33:48Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
