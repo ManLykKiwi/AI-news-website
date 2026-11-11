@@ -250,6 +250,111 @@
       "featured": false
     },
     {
+      "id": "feed-02bfed5e7aa817ea9d",
+      "category": "ai",
+      "source": "Google AI",
+      "source_id": "google",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "published": "2026-11-11",
+      "published_at": "2026-11-11T18:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T19:36:55Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-3d65ccc2f5cdce6978",
+      "category": "ai",
+      "source": "Google AI",
+      "source_id": "google",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+      "published": "2026-11-11",
+      "published_at": "2026-11-11T16:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T19:36:55Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-6a04fea506ef517273",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "Inspired by networks found in nature, engineers design stronger, more resilient “metamaterials”",
+      "url": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
+      "published": "2026-11-11",
+      "published_at": "2026-11-11T16:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T19:36:55Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-e09fad6dcc25f1ba69",
+      "category": "ai",
+      "source": "Google AI",
+      "source_id": "google",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "published": "2026-11-11",
+      "published_at": "2026-11-11T09:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T19:36:55Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-ac94b61a25ade5edbf",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published": "2026-11-11",
+      "published_at": "2026-11-11T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T19:36:55Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-f881bc45f9b01c4286",
       "category": "engineering",
       "source": "NASA",
@@ -281,6 +386,48 @@
       "published_at": "2026-11-11T05:01:16Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-11-11T06:24:09Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-55ff14dc4213127df7",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published": "2026-11-11",
+      "published_at": "2026-11-11T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T19:36:55Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-11568aa8dfcf9a3c07",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "published": "2026-11-11",
+      "published_at": "2026-11-11T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T19:36:55Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -554,6 +701,27 @@
       "published_at": "2026-11-10T09:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-11-10T19:44:37Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-9092d5eb66f2954740",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "published": "2026-11-10",
+      "published_at": "2026-11-10T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T19:36:55Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -5120,174 +5288,6 @@
         "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-e351f39e708cae8be6",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA Provides Progress Update on Moon Base Rovers",
-      "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers",
-      "published": "2026-10-20",
-      "published_at": "2026-10-20T15:00:10Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-20T17:09:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-1725d137aa3debc0d8",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "published": "2026-10-20",
-      "published_at": "2026-10-20T10:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-20T21:38:25Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-0de9b4c1021a7c35a8",
-      "category": "finance",
-      "source": "European Central Bank",
-      "source_id": "ecb",
-      "title": "Frank Elderson: Interview with Die Presse",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
-      "published": "2026-10-20",
-      "published_at": "2026-10-20T07:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-20T11:39:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-aa8847d44cbae3328f",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "published": "2026-10-20",
-      "published_at": "2026-10-20T07:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-21T04:50:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-abde9540d76277486e",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan",
-      "published": "2026-10-20",
-      "published_at": "2026-10-20T04:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-20T04:53:02Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-c2b4b68d7e0027f0e4",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "published": "2026-10-20",
-      "published_at": "2026-10-20T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-20T11:39:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-39e60f901a735303e0",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "published": "2026-10-20",
-      "published_at": "2026-10-20T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-20T17:09:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-41fb25a47d12d204a9",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "published": "2026-10-20",
-      "published_at": "2026-10-20T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-20T17:09:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-11T06:24:09Z",
-    "last_success": "2026-11-11T06:24:09Z",
+    "last_attempt": "2026-11-11T19:36:55Z",
+    "last_success": "2026-11-11T19:36:55Z",
     "success_count": 7,
     "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": true,
         "items": 6
       },
       {
         "id": "esa",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": true,
         "items": 1
       }
@@ -6011,7 +6011,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6020,7 +6020,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6029,31 +6029,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-11T06:24:09Z",
-        "digest": "22bf51b2a3fba6ff7ba9204a59a3f79de849eb3385a2ba7c1bf4e2f13b57d542",
+        "checked_at": "2026-11-11T19:36:55Z",
+        "digest": "3d34ac443595916fe2f86c554a45a8b6aedbf314cf1b8a41526650178a6414d6",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-11-11T06:24:09Z"
+        "changed_at": "2026-11-11T19:36:55Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-11T06:24:09Z",
-        "digest": "488634f841f1e6372264a034ee1c537eb0837fb3ca0a357bc0d2f80481ad727a",
+        "checked_at": "2026-11-11T19:36:55Z",
+        "digest": "e38abc3f5e404f8524c450059d29e1a4547f6227931498c17b73bd2fbe7ee46b",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-11-10T19:44:37Z"
+        "changed_at": "2026-11-11T19:36:55Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6062,7 +6062,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-11T06:24:09Z",
+        "attempted": "2026-11-11T19:36:55Z",
         "ok": false,
         "changed": false,
         "baseline": false,
