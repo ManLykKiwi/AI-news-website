@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-11-10",
+    "edition_date": "2026-11-11",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -248,6 +248,90 @@
       "editorial_status": "AI-assisted · source-linked",
       "checked": "2026-10-12",
       "featured": false
+    },
+    {
+      "id": "feed-f881bc45f9b01c4286",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact",
+      "published": "2026-11-11",
+      "published_at": "2026-11-11T05:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T06:24:09Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-19b4fcb1faac9c9bdb",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "published": "2026-11-11",
+      "published_at": "2026-11-11T05:01:16Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T06:24:09Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-5202d73c9b4d35e153",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "School of Engineering welcomes new faculty in 2026",
+      "url": "https://news.mit.edu/2026/school-engineering-welcomes-new-faculty-1110",
+      "published": "2026-11-10",
+      "published_at": "2026-11-10T22:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T06:24:09Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-bb7d5fc92e09c8efbd",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "MIT student leaders: Q&A with men’s football co-captain Dominic Hess",
+      "url": "https://news.mit.edu/2026/mit-student-leaders-qa-mens-football-co-captain-dominic-hess-1110",
+      "published": "2026-11-10",
+      "published_at": "2026-11-10T20:45:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T06:24:09Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
     },
     {
       "id": "feed-c45c5c281dd2928f93",
@@ -603,6 +687,27 @@
       "kind": "feed",
       "tags": [
         "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-37e4452e64c861cffe",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "published": "2026-11-10",
+      "published_at": "2026-11-10T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-11T06:24:09Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5183,111 +5288,6 @@
         "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-1cfb6291fa158d05a5",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "published": "2026-10-20",
-      "published_at": "2026-10-20T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-20T21:38:25Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-dacb6fe3b1c41ed3a0",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA Improves Shock, Vibration Analysis",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis",
-      "published": "2026-10-19",
-      "published_at": "2026-10-19T19:28:32Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-19T22:22:32Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-8ec43f8608b1e69674",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "Software",
-      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software",
-      "published": "2026-10-19",
-      "published_at": "2026-10-19T18:11:40Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-19T22:22:32Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-991d54b83b3570ec50",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "Experimental Facilities",
-      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities",
-      "published": "2026-10-19",
-      "published_at": "2026-10-19T18:08:52Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-19T22:22:32Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-8e8b1766b3f19926fe",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
-      "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat",
-      "published": "2026-10-19",
-      "published_at": "2026-10-19T18:01:51Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-19T22:22:32Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-10T19:44:37Z",
-    "last_success": "2026-11-10T19:44:37Z",
+    "last_attempt": "2026-11-11T06:24:09Z",
+    "last_success": "2026-11-11T06:24:09Z",
     "success_count": 7,
     "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": true,
-        "items": 5
+        "items": 6
       },
       {
         "id": "esa",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": true,
         "items": 1
       }
@@ -6011,7 +6011,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6020,7 +6020,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6029,23 +6029,23 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-10T19:44:37Z",
-        "digest": "b19270ad98237439cba5d7cb85fb173a66f30e2d43f7ff9110208afd069ee2f4",
+        "checked_at": "2026-11-11T06:24:09Z",
+        "digest": "22bf51b2a3fba6ff7ba9204a59a3f79de849eb3385a2ba7c1bf4e2f13b57d542",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
-        "changed_at": "2026-11-10T19:44:37Z"
+        "changed_at": "2026-11-11T06:24:09Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-10T19:44:37Z",
+        "checked_at": "2026-11-11T06:24:09Z",
         "digest": "488634f841f1e6372264a034ee1c537eb0837fb3ca0a357bc0d2f80481ad727a",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-10T19:44:37Z"
@@ -6053,7 +6053,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6062,7 +6062,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-10T19:44:37Z",
+        "attempted": "2026-11-11T06:24:09Z",
         "ok": false,
         "changed": false,
         "baseline": false,
