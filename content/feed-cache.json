@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-9f04938368cd338eb5",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet",
+    "published": "2026-11-12",
+    "published_at": "2026-11-12T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-12T07:12:40Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-65b96c238445cdedc9",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "published": "2026-11-12",
+    "published_at": "2026-11-12T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-12T07:12:40Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-02bfed5e7aa817ea9d",
     "category": "ai",
     "source": "Google AI",
@@ -4985,48 +5027,6 @@
     "url": "https://huggingface.co/blog/allenai/fairstress",
     "published": "2026-10-20",
     "published_at": "2026-10-20T16:09:19Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-20T17:09:00Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-717885f71763239e63",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
-    "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights",
-    "published": "2026-10-20",
-    "published_at": "2026-10-20T16:02:35Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-20T17:09:00Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-536f23cd94f139849c",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-    "published": "2026-10-20",
-    "published_at": "2026-10-20T15:19:48Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-20T17:09:00Z",
     "summary": "",
