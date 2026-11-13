@@ -1,5 +1,110 @@
 [
   {
+    "id": "feed-f12f2eb953e579e83d",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda",
+    "published": "2026-11-13",
+    "published_at": "2026-11-13T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-13T06:48:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-babb1d695637283d5c",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "New AI “copilot” helps engineers design better structures",
+    "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+    "published": "2026-11-13",
+    "published_at": "2026-11-13T05:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-13T06:48:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-e07fedf840f05ba0c7",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Helping robots fit into the human workplace",
+    "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+    "published": "2026-11-13",
+    "published_at": "2026-11-13T05:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-13T06:48:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-f976e2e1e059c04448",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Energy, prosperity, emissions, and innovation: A decarbonization progress report",
+    "url": "https://news.mit.edu/2026/energy-prosperity-emissions-innovation-decarbonization-progress-report-1112",
+    "published": "2026-11-12",
+    "published_at": "2026-11-12T21:30:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-13T06:48:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-67672a694e389b29af",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "published": "2026-11-12",
+    "published_at": "2026-11-12T20:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-13T06:48:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-84ec87286cb35a64f4",
     "category": "ai",
     "source": "Hugging Face",
@@ -80,6 +185,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-b9840fd67063a36a40",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "published": "2026-11-12",
+    "published_at": "2026-11-12T12:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-13T06:48:07Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -4910,132 +5036,6 @@
     "kind": "feed",
     "tags": [
       "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-de9db6f384cbc78877",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "published": "2026-10-21",
-    "published_at": "2026-10-21T07:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-21T17:14:07Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-ea92da5c121ecb4527",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "url": "https://openai.com/index/building-chatgpt-ad-stack",
-    "published": "2026-10-21",
-    "published_at": "2026-10-21T07:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-21T17:14:07Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-64ddfb139fec8a1cb4",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "published": "2026-10-21",
-    "published_at": "2026-10-21T04:50:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-21T17:14:07Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-9d0c3f7fb6db288c84",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-    "published": "2026-10-21",
-    "published_at": "2026-10-21T04:15:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-21T04:50:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-3e30a681cde685c5bd",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia",
-    "published": "2026-10-21",
-    "published_at": "2026-10-21T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-21T04:50:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-78cebe09803b57417f",
-    "category": "ai",
-    "source": "Google AI",
-    "source_id": "google",
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-    "published": "2026-10-21",
-    "published_at": "2026-10-21T04:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-21T04:50:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
