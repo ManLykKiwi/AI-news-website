@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-ccc8501e044179c906",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Arianna Doss named a 2027 Rhodes Scholar",
+    "url": "https://news.mit.edu/2026/arianna-doss-named-2027-rhodes-scholar-1114",
+    "published": "2026-11-15",
+    "published_at": "2026-11-15T02:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-15T06:34:16Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-cdc8eef67bc55a0d0f",
     "category": "ai",
     "source": "Hugging Face",
@@ -5015,27 +5036,6 @@
     "kind": "feed",
     "tags": [
       "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-bd459563b48b3a9aa8",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "Tracks Along the Longest Drive on Another World",
-    "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world",
-    "published": "2026-10-21",
-    "published_at": "2026-10-21T15:50:44Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-21T17:14:07Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
