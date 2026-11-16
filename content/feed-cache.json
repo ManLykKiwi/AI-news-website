@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-27ff426d4247d2c99f",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb",
+    "published": "2026-11-16",
+    "published_at": "2026-11-16T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-16T06:31:52Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-2e8f421d2ee2a3dfd3",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "published": "2026-11-15",
+    "published_at": "2026-11-15T22:00:01Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-16T06:31:52Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-33b95c2112c46efd09",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Our new blog for science",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "published": "2026-11-15",
+    "published_at": "2026-11-15T22:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-16T06:31:52Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-ccc8501e044179c906",
     "category": "engineering",
     "source": "MIT News",
@@ -4966,69 +5029,6 @@
     "published_at": "2026-10-21T18:26:30Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-10-21T21:44:02Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-40a01666d562060bfd",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "published": "2026-10-21",
-    "published_at": "2026-10-21T17:35:36Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-21T21:44:02Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-39cad894cdd240fbe2",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "url": "https://openai.com/index/att-legal",
-    "published": "2026-10-21",
-    "published_at": "2026-10-21T17:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-21T21:44:02Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-5b4e08461387ba3b44",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "published": "2026-10-21",
-    "published_at": "2026-10-21T16:04:43Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-21T17:14:07Z",
     "summary": "",
     "why": "",
     "technical": "",
