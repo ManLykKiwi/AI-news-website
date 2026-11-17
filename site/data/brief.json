@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-11-16",
+    "edition_date": "2026-11-17",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -250,6 +250,90 @@
       "featured": false
     },
     {
+      "id": "feed-5cf4301583bea7d8db",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora",
+      "published": "2026-11-17",
+      "published_at": "2026-11-17T05:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-17T07:56:25Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-c294f20baa0eb95281",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "Learning the language of machine learning",
+      "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+      "published": "2026-11-17",
+      "published_at": "2026-11-17T05:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-17T07:56:25Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-0e7f690aa4ff229bd2",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "published": "2026-11-17",
+      "published_at": "2026-11-17T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-17T07:56:25Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-cce295b82699fc57ef",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover",
+      "published": "2026-11-16",
+      "published_at": "2026-11-16T22:05:23Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-17T07:56:25Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-021a3e2a4fe68f8212",
       "category": "engineering",
       "source": "MIT News",
@@ -407,6 +491,27 @@
       "published_at": "2026-11-16T12:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-11-16T22:03:47Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-b82b64ef90f76e66fb",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "published": "2026-11-16",
+      "published_at": "2026-11-16T09:30:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-17T07:56:25Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -5183,111 +5288,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-1a543055a02f981651",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "published": "2026-10-23",
-      "published_at": "2026-10-23T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-23T11:40:58Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-2b3f616d26d343fed7",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "published": "2026-10-23",
-      "published_at": "2026-10-23T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-23T17:08:55Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-3b5a2a6a27ab5490f8",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "url": "https://openai.com/index/anima",
-      "published": "2026-10-23",
-      "published_at": "2026-10-23T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T18:03:06Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-51888f116f5b083740",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "published": "2026-10-22",
-      "published_at": "2026-10-22T22:24:34Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-23T04:51:41Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-2576df31f526b409ac",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium",
-      "published": "2026-10-22",
-      "published_at": "2026-10-22T21:39:58Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-23T04:51:41Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-16T22:03:47Z",
-    "last_success": "2026-11-16T22:03:47Z",
+    "last_attempt": "2026-11-17T07:56:25Z",
+    "last_success": "2026-11-17T07:56:25Z",
     "success_count": 7,
     "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": true,
         "items": 4
       },
       {
         "id": "esa",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": true,
         "items": 1
       }
@@ -6011,7 +6011,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6020,7 +6020,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6029,11 +6029,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-16T22:03:47Z",
+        "checked_at": "2026-11-17T07:56:25Z",
         "digest": "e9dc171d79f219fa2affcd56ec1929d7f0717df73ff9eff4cf3b053f6b228fa5",
         "text_sample": "Using GPT-6 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the AP",
         "changed_at": "2026-11-16T22:03:47Z"
@@ -6041,11 +6041,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-16T22:03:47Z",
+        "checked_at": "2026-11-17T07:56:25Z",
         "digest": "1a037620027b5e165d9bebc23d80ea80fac837121fd3c6bfea4d85f0bcbf729d",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-16T22:03:47Z"
@@ -6053,7 +6053,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6062,7 +6062,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-16T22:03:47Z",
+        "attempted": "2026-11-17T07:56:25Z",
         "ok": false,
         "changed": false,
         "baseline": false,
