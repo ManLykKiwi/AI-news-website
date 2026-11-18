@@ -1,5 +1,68 @@
 [
   {
+    "id": "feed-fb849f3daf520e5486",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare",
+    "published": "2026-11-18",
+    "published_at": "2026-11-18T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-18T07:29:56Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-396f1d2b419af04581",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "Building blocks for a greener skyline",
+    "url": "https://news.mit.edu/2026/building-blocks-for-greener-skyline-miana-smith-1118",
+    "published": "2026-11-18",
+    "published_at": "2026-11-18T05:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-18T07:29:56Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-0c5fad1c6ec6641047",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA Launches Nuclear Power Systems Student Contest",
+    "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest",
+    "published": "2026-11-17",
+    "published_at": "2026-11-17T22:02:48Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-18T07:29:56Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-3ae2b43c4175b84b03",
     "category": "engineering",
     "source": "NASA",
@@ -136,6 +199,27 @@
     "published_at": "2026-11-17T17:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-11-17T20:56:33Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-3047d7657748ea760f",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Introducing ChatGPT for Sales",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "published": "2026-11-17",
+    "published_at": "2026-11-17T08:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-18T07:29:56Z",
     "summary": "",
     "why": "",
     "technical": "",
@@ -4952,90 +5036,6 @@
     "kind": "feed",
     "tags": [
       "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-da556d91f2dc9c94a2",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe",
-    "published": "2026-10-25",
-    "published_at": "2026-10-25T08:19:48Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-25T11:32:09Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-c67befbec2e4f8c2f5",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Piero Cipollone: Interview with Milano Finanza",
-    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
-    "published": "2026-10-24",
-    "published_at": "2026-10-24T06:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-24T11:03:00Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-e1fabf65e2f56c085b",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie",
-    "published": "2026-10-24",
-    "published_at": "2026-10-24T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-24T11:03:00Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-c8aef14bcca24c1900",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-    "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions",
-    "published": "2026-10-23",
-    "published_at": "2026-10-23T22:39:39Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-24T04:38:33Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
