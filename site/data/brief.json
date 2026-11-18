@@ -250,6 +250,195 @@
       "featured": false
     },
     {
+      "id": "feed-f0b81ce3c146128806",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T19:54:56Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-f4d5cc76792a20c67b",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "This featherweight, flying robot carries its own sensors and computers",
+      "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T19:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-e55c8f2df06c07ffc9",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T18:53:43Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-0191a8cf5007a7e305",
+      "category": "ai",
+      "source": "Google AI",
+      "source_id": "google",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T17:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-aef632472a5e3af7f9",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T15:00:23Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-cae0ebe96330058d23",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "Boris Vujčić: Financial Stability Review - November 2026",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T09:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-01f1c87b91ecde2d24",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T09:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-67952d9a918d2536a7",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-99be0c0a7e074380d1",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T06:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-fb849f3daf520e5486",
       "category": "engineering",
       "source": "NASA",
@@ -288,6 +477,132 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-a1de396d3910fa2e0f",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-68ddb817fe4001c0fc",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-184d931227f2504de1",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-ec56b5eff9affb1c33",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-5b89a2db7f60ae9099",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-b725123bbd637731bf",
+      "category": "finance",
+      "source": "Bank for International Settlements",
+      "source_id": "bis",
+      "title": "Basel Committee discusses risks and vulnerabilities faced by global banking system",
+      "url": "https://www.bis.org/media-releases/20261118-basel-committee-discusses-risks-and-vulnerabilities-faced-global-banking-system",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -4973,321 +5288,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-30f1cefc18b249ef80",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NEO Surveyor’s Sunshade Gets Inspected",
-      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T20:53:13Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a8e302f318d0198e62",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T20:52:24Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-136484e28eca446ede",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T19:28:08Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-9a15b40232fdbf825a",
-      "category": "ai",
-      "source": "Google AI",
-      "source_id": "google",
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T16:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-98f258cf1b4111c1f2",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA’s X-59 Aircraft and Test Pilot",
-      "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T15:25:47Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-8eb6001a836a6e50b8",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T14:30:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-7d972df501d01ba1f6",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T13:45:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-27334100e818b98514",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "ChatGPT’s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T10:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-e68b407e57b5d54078",
-      "category": "finance",
-      "source": "European Central Bank",
-      "source_id": "ecb",
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T09:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T13:05:37Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-7e73eebe3e909303c4",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T07:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-742d30efdc4090c11a",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T07:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-7a20fc27f00392604b",
-      "category": "finance",
-      "source": "European Central Bank",
-      "source_id": "ecb",
-      "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T05:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T13:05:37Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-24cdde581a965df572",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
-      "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T04:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T04:49:22Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-23928c472c6df700c9",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
-      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T04:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T13:05:37Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-35e334c198740f7416",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,66 +5952,67 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-18T07:29:56Z",
-    "last_success": "2026-11-18T07:29:56Z",
-    "success_count": 7,
-    "failure_count": 1,
+    "last_attempt": "2026-11-18T20:33:03Z",
+    "last_success": "2026-11-18T20:33:03Z",
+    "success_count": 6,
+    "failure_count": 2,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-18T07:29:56Z",
-        "ok": true,
-        "items": 6
+        "attempted": "2026-11-18T20:33:03Z",
+        "ok": false,
+        "items": 0,
+        "error": "Unsafe or oversized XML source"
       },
       {
         "id": "esa",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": true,
-        "items": 1
+        "items": 2
       }
     ],
     "documents": [
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6020,7 +6021,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6029,11 +6030,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": true,
-        "changed": true,
+        "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-18T07:29:56Z",
+        "checked_at": "2026-11-18T20:33:03Z",
         "digest": "21e814eb2b70b9c1511c5fc3346ee4fc86fa942323b40a96aef9e5b5e610b5ee",
         "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
         "changed_at": "2026-11-18T07:29:56Z"
@@ -6041,11 +6042,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-18T07:29:56Z",
+        "checked_at": "2026-11-18T20:33:03Z",
         "digest": "3a16a21751c720b48b29d49173893ca6b8cdfa7567f99058f2318ef7f40821b0",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-17T20:56:33Z"
@@ -6053,7 +6054,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6062,7 +6063,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-18T07:29:56Z",
+        "attempted": "2026-11-18T20:33:03Z",
         "ok": false,
         "changed": false,
         "baseline": false,
