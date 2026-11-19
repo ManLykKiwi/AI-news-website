@@ -250,6 +250,174 @@
       "featured": false
     },
     {
+      "id": "feed-091d8212ef272c4559",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "Ultrasound imaging without the gel",
+      "url": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T19:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T20:38:51Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-056cf0b58a3dbace68",
+      "category": "ai",
+      "source": "Google AI",
+      "source_id": "google",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T18:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T20:38:51Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-63610b904de2950645",
+      "category": "ai",
+      "source": "Google AI",
+      "source_id": "google",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T17:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T20:38:51Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-4ccd1aa0a4d5150142",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T15:33:55Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T20:38:51Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-4401efb7dba1efc9a9",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T14:44:39Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T20:38:51Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-54060f0c128ced0797",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T14:31:15Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T20:38:51Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-9342dbf934e428aa00",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T20:38:51Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-7050bc9bb18cc80eaa",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T05:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T20:38:51Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-f0b81ce3c146128806",
       "category": "ai",
       "source": "Hugging Face",
@@ -309,6 +477,27 @@
       "kind": "feed",
       "tags": [
         "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-ab277d730263b66d7f",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T18:12:32Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T20:38:51Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5099,195 +5288,6 @@
         "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-1d6c5c59e46e52b936",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T16:12:42Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T18:03:06Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-1e3ebf94e41ebe1979",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T15:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T05:44:36Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-2380a3bfc4ef10bb0e",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T07:07:51Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T12:14:04Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-c417f8e3d39d0b893c",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T07:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T18:03:06Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-f2f5f7be2ec2229fc3",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T04:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T05:07:30Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-8cedd51707f2b8e3c3",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "Origami-based construction method yields lightweight, load-bearing structures on architectural scales",
-      "url": "https://news.mit.edu/2026/origami-based-construction-method-yields-lightweight-load-bearing-structures-architecture-1027",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T04:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T05:07:30Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-d1af0e9e9c8b89b7bc",
-      "category": "finance",
-      "source": "European Central Bank",
-      "source_id": "ecb",
-      "title": "October 2026 euro area bank lending survey",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T12:14:04Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-c44dc9ed271ff418b1",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T22:15:17Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-903612d439ffca9784",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T22:48:12Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T05:07:30Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,58 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-19T07:27:28Z",
-    "last_success": "2026-11-19T07:27:28Z",
-    "success_count": 6,
-    "failure_count": 2,
+    "last_attempt": "2026-11-19T20:38:51Z",
+    "last_success": "2026-11-19T20:38:51Z",
+    "success_count": 7,
+    "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-19T07:27:28Z",
-        "ok": false,
-        "items": 0,
-        "error": "Unsafe or oversized XML source"
+        "attempted": "2026-11-19T20:38:51Z",
+        "ok": true,
+        "items": 5
       },
       {
         "id": "esa",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": true,
         "items": 2
       }
@@ -6012,7 +6011,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6021,7 +6020,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6030,31 +6029,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-19T07:27:28Z",
-        "digest": "31d41cc4a361be16fa7b5cebe27a19452567bfd6c3ca22f77fa3ad7ffcb9ea53",
+        "checked_at": "2026-11-19T20:38:51Z",
+        "digest": "7aafbbe9e14b54a3395b7f9a267f4f2387c980893e737b1e86dc04bda282870d",
         "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
-        "changed_at": "2026-11-19T07:27:28Z"
+        "changed_at": "2026-11-19T20:38:51Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-19T07:27:28Z",
-        "digest": "3a16a21751c720b48b29d49173893ca6b8cdfa7567f99058f2318ef7f40821b0",
+        "checked_at": "2026-11-19T20:38:51Z",
+        "digest": "b73c129d71ecad8001de869a2c1b23f8db11efd55a76fef97e93104b49b9ad6f",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-11-17T20:56:33Z"
+        "changed_at": "2026-11-19T20:38:51Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6063,7 +6062,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-19T07:27:28Z",
+        "attempted": "2026-11-19T20:38:51Z",
         "ok": false,
         "changed": false,
         "baseline": false,

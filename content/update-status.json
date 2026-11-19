@@ -1,56 +1,55 @@
 {
-  "last_attempt": "2026-11-19T07:27:28Z",
-  "last_success": "2026-11-19T07:27:28Z",
-  "success_count": 6,
-  "failure_count": 2,
+  "last_attempt": "2026-11-19T20:38:51Z",
+  "last_success": "2026-11-19T20:38:51Z",
+  "success_count": 7,
+  "failure_count": 1,
   "feeds": [
     {
       "id": "openai",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": true,
       "items": 12
     },
     {
       "id": "google",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": true,
       "items": 12
     },
     {
       "id": "hf",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": true,
       "items": 8
     },
     {
       "id": "nasa",
-      "attempted": "2026-11-19T07:27:28Z",
-      "ok": false,
-      "items": 0,
-      "error": "Unsafe or oversized XML source"
+      "attempted": "2026-11-19T20:38:51Z",
+      "ok": true,
+      "items": 5
     },
     {
       "id": "esa",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": false,
       "items": 0,
       "error": "HTTP 404; source may restrict automated access"
     },
     {
       "id": "mit",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": true,
       "items": 10
     },
     {
       "id": "ecb",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": true,
       "items": 12
     },
     {
       "id": "bis",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": true,
       "items": 2
     }
@@ -59,7 +58,7 @@
     {
       "id": "chat-release",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": false,
       "changed": false,
       "baseline": false,
@@ -68,7 +67,7 @@
     {
       "id": "plugins",
       "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": false,
       "changed": false,
       "baseline": false,
@@ -77,31 +76,31 @@
     {
       "id": "model-guide",
       "url": "https://developers.openai.com/api/docs/guides/latest-model",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": true,
       "changed": true,
       "baseline": false,
-      "checked_at": "2026-11-19T07:27:28Z",
-      "digest": "31d41cc4a361be16fa7b5cebe27a19452567bfd6c3ca22f77fa3ad7ffcb9ea53",
+      "checked_at": "2026-11-19T20:38:51Z",
+      "digest": "7aafbbe9e14b54a3395b7f9a267f4f2387c980893e737b1e86dc04bda282870d",
       "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
-      "changed_at": "2026-11-19T07:27:28Z"
+      "changed_at": "2026-11-19T20:38:51Z"
     },
     {
       "id": "agents-doc",
       "url": "https://developers.openai.com/api/docs/guides/agents",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": true,
-      "changed": false,
+      "changed": true,
       "baseline": false,
-      "checked_at": "2026-11-19T07:27:28Z",
-      "digest": "3a16a21751c720b48b29d49173893ca6b8cdfa7567f99058f2318ef7f40821b0",
+      "checked_at": "2026-11-19T20:38:51Z",
+      "digest": "b73c129d71ecad8001de869a2c1b23f8db11efd55a76fef97e93104b49b9ad6f",
       "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-      "changed_at": "2026-11-17T20:56:33Z"
+      "changed_at": "2026-11-19T20:38:51Z"
     },
     {
       "id": "model-spec",
       "url": "https://model-spec.openai.com/",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": false,
       "changed": false,
       "baseline": false,
@@ -110,7 +109,7 @@
     {
       "id": "all-releases",
       "url": "https://openai.com/products/release-notes/",
-      "attempted": "2026-11-19T07:27:28Z",
+      "attempted": "2026-11-19T20:38:51Z",
       "ok": false,
       "changed": false,
       "baseline": false,
