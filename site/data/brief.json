@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-11-18",
+    "edition_date": "2026-11-19",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -355,6 +355,27 @@
       "editorial_status": "Publisher feed · not independently verified"
     },
     {
+      "id": "feed-184d931227f2504de1",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T10:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-cae0ebe96330058d23",
       "category": "finance",
       "source": "European Central Bank",
@@ -407,6 +428,48 @@
       "published_at": "2026-11-18T08:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-11-18T20:33:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-58da586369f33999eb",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T07:27:28Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-53d809d7420a3923e8",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "published": "2026-11-18",
+      "published_at": "2026-11-18T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-19T07:27:28Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -508,27 +571,6 @@
       "source_id": "openai",
       "title": "Advancing chip design with OpenAI models",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "published": "2026-11-18",
-      "published_at": "2026-11-18T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-11-18T20:33:03Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-184d931227f2504de1",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
       "published": "2026-11-18",
       "published_at": "2026-11-18T00:00:00Z",
       "date_kind": "publisher publication date",
@@ -5246,48 +5288,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a9c488820a62ac4adc",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T22:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-6d879a7a5c5c91f84d",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust",
-      "published": "2026-10-26",
-      "published_at": "2026-10-26T21:07:28Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-26T22:41:00Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,58 +5952,58 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-18T20:33:03Z",
-    "last_success": "2026-11-18T20:33:03Z",
+    "last_attempt": "2026-11-19T07:27:28Z",
+    "last_success": "2026-11-19T07:27:28Z",
     "success_count": 6,
     "failure_count": 2,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": false,
         "items": 0,
         "error": "Unsafe or oversized XML source"
       },
       {
         "id": "esa",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": true,
         "items": 2
       }
@@ -6012,7 +6012,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6021,7 +6021,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6030,23 +6030,23 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-18T20:33:03Z",
-        "digest": "21e814eb2b70b9c1511c5fc3346ee4fc86fa942323b40a96aef9e5b5e610b5ee",
+        "checked_at": "2026-11-19T07:27:28Z",
+        "digest": "31d41cc4a361be16fa7b5cebe27a19452567bfd6c3ca22f77fa3ad7ffcb9ea53",
         "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
-        "changed_at": "2026-11-18T07:29:56Z"
+        "changed_at": "2026-11-19T07:27:28Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-18T20:33:03Z",
+        "checked_at": "2026-11-19T07:27:28Z",
         "digest": "3a16a21751c720b48b29d49173893ca6b8cdfa7567f99058f2318ef7f40821b0",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-17T20:56:33Z"
@@ -6054,7 +6054,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6063,7 +6063,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-18T20:33:03Z",
+        "attempted": "2026-11-19T07:27:28Z",
         "ok": false,
         "changed": false,
         "baseline": false,
