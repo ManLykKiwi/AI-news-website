@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-11-19",
+    "edition_date": "2026-11-20",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -250,6 +250,27 @@
       "featured": false
     },
     {
+      "id": "feed-c1c4abb28a31401638",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 November 20 – V-G-R",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T05:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T07:18:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-091d8212ef272c4559",
       "category": "engineering",
       "source": "MIT News",
@@ -414,6 +435,90 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-a890a236270cc5e318",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T07:18:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-17b7a2b39f098895a2",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T07:18:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-82fe289fe466dcc1d4",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T07:18:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-da30645137037f0052",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "published": "2026-11-19",
+      "published_at": "2026-11-19T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T07:18:03Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5183,111 +5288,6 @@
         "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a9e27b8b436f0d6598",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T05:39:46Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T05:44:36Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-ed9cb9e56822e19beb",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T04:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T05:44:36Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-3576ba8e09e7f10f34",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T19:27:22Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T22:15:17Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-f28bdb4f8cdcd0d9e1",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA’s Neo Surveyor Sunshade",
-      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T17:58:57Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T18:03:06Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-1c5b51464767c2ad29",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "published": "2026-10-27",
-      "published_at": "2026-10-27T17:16:52Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-27T18:03:06Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-19T20:38:51Z",
-    "last_success": "2026-11-19T20:38:51Z",
+    "last_attempt": "2026-11-20T07:18:03Z",
+    "last_success": "2026-11-20T07:18:03Z",
     "success_count": 7,
     "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": true,
         "items": 5
       },
       {
         "id": "esa",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": true,
         "items": 2
       }
@@ -6011,7 +6011,7 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6020,7 +6020,7 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6029,31 +6029,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-19T20:38:51Z",
-        "digest": "7aafbbe9e14b54a3395b7f9a267f4f2387c980893e737b1e86dc04bda282870d",
+        "checked_at": "2026-11-20T07:18:03Z",
+        "digest": "cc5f3f543a464d7ca797e5136d92c36177c19970c5fd81b340cb794f4c609310",
         "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
-        "changed_at": "2026-11-19T20:38:51Z"
+        "changed_at": "2026-11-20T07:18:03Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-19T20:38:51Z",
-        "digest": "b73c129d71ecad8001de869a2c1b23f8db11efd55a76fef97e93104b49b9ad6f",
+        "checked_at": "2026-11-20T07:18:03Z",
+        "digest": "f0507c72e39b919274e5913498d7b38b3a75b91e376614b0b7da0c45739f9d10",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-11-19T20:38:51Z"
+        "changed_at": "2026-11-20T07:18:03Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6062,7 +6062,7 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-19T20:38:51Z",
+        "attempted": "2026-11-20T07:18:03Z",
         "ok": false,
         "changed": false,
         "baseline": false,
