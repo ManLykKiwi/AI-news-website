@@ -250,6 +250,90 @@
       "featured": false
     },
     {
+      "id": "feed-d63545ee50582dd078",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T16:27:46Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T20:23:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-7bd5c1a01e3528cc5c",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA’s Curiosity Mars Rover Collects Samples",
+      "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T15:53:24Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T20:23:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-7ad44f990f0c53ef2e",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T10:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T20:23:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-e6c33934d167226da4",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "Christine Lagarde: Acting in time",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T08:30:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T20:23:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-c1c4abb28a31401638",
       "category": "engineering",
       "source": "NASA",
@@ -267,6 +351,69 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-c1a2af93db54bfcf7c",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T20:23:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-824c03b970f1dc58ca",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T20:23:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-701a571706ec6c00de",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-20T20:23:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5141,153 +5288,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a912ef7f01eb37570f",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "A soft robot could help doctors diagnose and treat disorders of the small intestine",
-      "url": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T18:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T22:36:41Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-ba816ae2c66dda0a8e",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "3 Questions: Why infrastructure is entering a defining era",
-      "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T16:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T22:36:41Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-ec733f799e1aaee3d1",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T14:58:17Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T22:36:41Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a395c7da350b5086cc",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T13:15:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T22:36:41Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-e2ed7680c50ae3f074",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T10:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T22:36:41Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-67c6b18b0a76451db8",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T09:30:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T12:57:01Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-709cc8e2bd467b7916",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T09:30:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T22:36:41Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-20T07:18:03Z",
-    "last_success": "2026-11-20T07:18:03Z",
+    "last_attempt": "2026-11-20T20:23:00Z",
+    "last_success": "2026-11-20T20:23:00Z",
     "success_count": 7,
     "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": true,
-        "items": 5
+        "items": 7
       },
       {
         "id": "esa",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": true,
         "items": 2
       }
@@ -6011,49 +6011,53 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-20T07:18:03Z",
-        "ok": false,
+        "attempted": "2026-11-20T20:23:00Z",
+        "ok": true,
         "changed": false,
-        "baseline": false,
-        "error": "HTTP 403; source may restrict automated access"
+        "baseline": true,
+        "checked_at": "2026-11-20T20:23:00Z",
+        "digest": "b44cf7dc9f30461872f7afd35d01a1d1eb0ff1c0b4c4cbac2773e71e4a2cdf2c",
+        "text_sample": "ChatGPT release notes | OpenAI Help Center ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 2 hours ago November 20, 2026 ChatGPT Space is ro"
       },
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-20T07:18:03Z",
-        "ok": false,
+        "attempted": "2026-11-20T20:23:00Z",
+        "ok": true,
         "changed": false,
-        "baseline": false,
-        "error": "HTTP 403; source may restrict automated access"
+        "baseline": true,
+        "checked_at": "2026-11-20T20:23:00Z",
+        "digest": "23c0f2fdbdec8f1c4232ac3079c66eb2a33bd4c14d1e1f38f80fb299711d8061",
+        "text_sample": "Plugins in ChatGPT | OpenAI Help Center Plugins in ChatGPT Learn how plugins work in ChatGPT Chat, Work, and Codex, how to install them, and how connected apps and workspace settin"
       },
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-20T07:18:03Z",
-        "digest": "cc5f3f543a464d7ca797e5136d92c36177c19970c5fd81b340cb794f4c609310",
+        "checked_at": "2026-11-20T20:23:00Z",
+        "digest": "e0c7a10c3dac182b921588c9acf37744f48292b9dfb36c36849a8cfdfa004629",
         "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
-        "changed_at": "2026-11-20T07:18:03Z"
+        "changed_at": "2026-11-20T20:23:00Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-20T07:18:03Z",
-        "digest": "f0507c72e39b919274e5913498d7b38b3a75b91e376614b0b7da0c45739f9d10",
+        "checked_at": "2026-11-20T20:23:00Z",
+        "digest": "9b55e3c80646182bb4ea189849a222009389d824f4b27f521caf20f6eb773252",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-11-20T07:18:03Z"
+        "changed_at": "2026-11-20T20:23:00Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-20T07:18:03Z",
+        "attempted": "2026-11-20T20:23:00Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6062,11 +6066,13 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-20T07:18:03Z",
-        "ok": false,
+        "attempted": "2026-11-20T20:23:00Z",
+        "ok": true,
         "changed": false,
-        "baseline": false,
-        "error": "HTTP 403; source may restrict automated access"
+        "baseline": true,
+        "checked_at": "2026-11-20T20:23:00Z",
+        "digest": "79ccc86c3d30ae053d4ac3bb9446afd22571efa446d8ce7f84120c632a8e1fa7",
+        "text_sample": "Release Notes | OpenAI | OpenAI OpenAI Release notes Copy RSS feed URL All ChatGPT Codex API Filter Sort Nov 17, 2026 API Beta Share Discounted background completion windows in the"
       }
     ],
     "summary_mode": "off",
