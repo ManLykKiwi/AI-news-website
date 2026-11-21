@@ -2,7 +2,7 @@
   "site": {
     "name": "Kirish’s Brief",
     "tagline": "A little clearer. A little further.",
-    "edition_date": "2026-11-20",
+    "edition_date": "2026-11-21",
     "editorial_checked": "2026-10-12"
   },
   "stories": [
@@ -250,6 +250,90 @@
       "featured": false
     },
     {
+      "id": "feed-04d6e4f4006f92dafe",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune",
+      "published": "2026-11-21",
+      "published_at": "2026-11-21T05:05:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-21T07:10:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-ae2fa72331269d9e6a",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Curiosity Spots Drifting Twilight Clouds",
+      "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T22:27:05Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-21T07:10:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-06caffa3d555e0aec6",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "A tiny superconducting sandwich could help computers use less energy",
+      "url": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T21:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-21T07:10:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-146e3617066e39bdca",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T20:46:14Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-21T07:10:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-d63545ee50582dd078",
       "category": "engineering",
       "source": "NASA",
@@ -407,6 +491,27 @@
       "published_at": "2026-11-20T00:00:00Z",
       "date_kind": "publisher publication date",
       "first_seen": "2026-11-20T20:23:00Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-8145fefb47ff1ca9fa",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "published": "2026-11-20",
+      "published_at": "2026-11-20T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-21T07:10:00Z",
       "summary": "",
       "why": "",
       "technical": "",
@@ -5183,111 +5288,6 @@
         "finance"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-718617961cab3abcc8",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T22:46:10Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-b6b30743068c26272d",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T22:46:10Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-85f94c0fe8f02a8178",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "url": "https://openai.com/index/credit-saison",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-30T22:22:16Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-ec2503a37a6c87978f",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
-      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T21:50:01Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T22:36:41Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-6766391e0a75419394",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-      "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur",
-      "published": "2026-10-28",
-      "published_at": "2026-10-28T18:00:28Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-28T22:36:41Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-20T20:23:00Z",
-    "last_success": "2026-11-20T20:23:00Z",
+    "last_attempt": "2026-11-21T07:10:00Z",
+    "last_success": "2026-11-21T07:10:00Z",
     "success_count": 7,
     "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
         "items": 7
       },
       {
         "id": "esa",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
         "items": 2
       }
@@ -6011,53 +6011,55 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
-        "changed": false,
-        "baseline": true,
-        "checked_at": "2026-11-20T20:23:00Z",
-        "digest": "b44cf7dc9f30461872f7afd35d01a1d1eb0ff1c0b4c4cbac2773e71e4a2cdf2c",
-        "text_sample": "ChatGPT release notes | OpenAI Help Center ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 2 hours ago November 20, 2026 ChatGPT Space is ro"
+        "changed": true,
+        "baseline": false,
+        "checked_at": "2026-11-21T07:10:00Z",
+        "digest": "e4586be550463e441db81c6ad3a40de537f436cb5a7c40f1fc9881a7489e1300",
+        "text_sample": "ChatGPT release notes | OpenAI Help Center ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 6 hours ago November 20, 2026 ChatGPT Space is ro",
+        "changed_at": "2026-11-21T07:10:00Z"
       },
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
-        "changed": false,
-        "baseline": true,
-        "checked_at": "2026-11-20T20:23:00Z",
-        "digest": "23c0f2fdbdec8f1c4232ac3079c66eb2a33bd4c14d1e1f38f80fb299711d8061",
-        "text_sample": "Plugins in ChatGPT | OpenAI Help Center Plugins in ChatGPT Learn how plugins work in ChatGPT Chat, Work, and Codex, how to install them, and how connected apps and workspace settin"
+        "changed": true,
+        "baseline": false,
+        "checked_at": "2026-11-21T07:10:00Z",
+        "digest": "f10f5f821ddeaa547e3efba7073522f38eab24bff7afd41936cf035e13dbc6c6",
+        "text_sample": "Plugins in ChatGPT | OpenAI Help Center Plugins in ChatGPT Learn how plugins work in ChatGPT Chat, Work, and Codex, how to install them, and how connected apps and workspace settin",
+        "changed_at": "2026-11-21T07:10:00Z"
       },
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-20T20:23:00Z",
-        "digest": "e0c7a10c3dac182b921588c9acf37744f48292b9dfb36c36849a8cfdfa004629",
+        "checked_at": "2026-11-21T07:10:00Z",
+        "digest": "e97cc0c2bd0aab0fd2cdbb2c0c73a981f643584df192983c66eca0f5782145c3",
         "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
-        "changed_at": "2026-11-20T20:23:00Z"
+        "changed_at": "2026-11-21T07:10:00Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-20T20:23:00Z",
-        "digest": "9b55e3c80646182bb4ea189849a222009389d824f4b27f521caf20f6eb773252",
+        "checked_at": "2026-11-21T07:10:00Z",
+        "digest": "d0c963b180e57bb1cf106fea4517e1baa6f03d96d3c176e28cd4386c39739e2e",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-11-20T20:23:00Z"
+        "changed_at": "2026-11-21T07:10:00Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6066,11 +6068,11 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-20T20:23:00Z",
+        "attempted": "2026-11-21T07:10:00Z",
         "ok": true,
         "changed": false,
-        "baseline": true,
-        "checked_at": "2026-11-20T20:23:00Z",
+        "baseline": false,
+        "checked_at": "2026-11-21T07:10:00Z",
         "digest": "79ccc86c3d30ae053d4ac3bb9446afd22571efa446d8ce7f84120c632a8e1fa7",
         "text_sample": "Release Notes | OpenAI | OpenAI OpenAI Release notes Copy RSS feed URL All ChatGPT Codex API Filter Sort Nov 17, 2026 API Beta Share Discounted background completion windows in the"
       }

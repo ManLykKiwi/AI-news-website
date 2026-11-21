@@ -1,5 +1,89 @@
 [
   {
+    "id": "feed-04d6e4f4006f92dafe",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune",
+    "published": "2026-11-21",
+    "published_at": "2026-11-21T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-21T07:10:00Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-ae2fa72331269d9e6a",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Curiosity Spots Drifting Twilight Clouds",
+    "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds",
+    "published": "2026-11-20",
+    "published_at": "2026-11-20T22:27:05Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-21T07:10:00Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-06caffa3d555e0aec6",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "A tiny superconducting sandwich could help computers use less energy",
+    "url": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
+    "published": "2026-11-20",
+    "published_at": "2026-11-20T21:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-21T07:10:00Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-146e3617066e39bdca",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+    "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation",
+    "published": "2026-11-20",
+    "published_at": "2026-11-20T20:46:14Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-21T07:10:00Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-d63545ee50582dd078",
     "category": "engineering",
     "source": "NASA",
@@ -157,6 +241,27 @@
     "published_at": "2026-11-20T00:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-11-20T20:23:00Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-8145fefb47ff1ca9fa",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "published": "2026-11-20",
+    "published_at": "2026-11-20T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-21T07:10:00Z",
     "summary": "",
     "why": "",
     "technical": "",
@@ -4931,111 +5036,6 @@
     "kind": "feed",
     "tags": [
       "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-718617961cab3abcc8",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "url": "https://huggingface.co/blog/announcing-project-protostar",
-    "published": "2026-10-29",
-    "published_at": "2026-10-29T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-29T22:46:10Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-b6b30743068c26272d",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "url": "https://huggingface.co/blog/mistral-large4",
-    "published": "2026-10-29",
-    "published_at": "2026-10-29T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-29T22:46:10Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-85f94c0fe8f02a8178",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-    "url": "https://openai.com/index/credit-saison",
-    "published": "2026-10-29",
-    "published_at": "2026-10-29T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T22:22:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-ec2503a37a6c87978f",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
-    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory",
-    "published": "2026-10-28",
-    "published_at": "2026-10-28T21:50:01Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-28T22:36:41Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-6766391e0a75419394",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-    "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur",
-    "published": "2026-10-28",
-    "published_at": "2026-10-28T18:00:28Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-28T22:36:41Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
