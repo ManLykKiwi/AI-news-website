@@ -250,6 +250,27 @@
       "featured": false
     },
     {
+      "id": "feed-9922f026851241ecf3",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson",
+      "published": "2026-11-22",
+      "published_at": "2026-11-22T19:13:25Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-22T19:42:06Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-f5ce4a0fe482d320ff",
       "category": "engineering",
       "source": "NASA",
@@ -267,6 +288,27 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-1a10f1676d46fc01a9",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "published": "2026-11-22",
+      "published_at": "2026-11-22T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-22T19:42:06Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5246,48 +5288,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-eebb713fe02cdf43c3",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T02:49:59Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T05:49:44Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-6394645bd5105adc54",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T13:03:35Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-22T06:50:05Z",
-    "last_success": "2026-11-22T06:50:05Z",
+    "last_attempt": "2026-11-22T19:42:06Z",
+    "last_success": "2026-11-22T19:42:06Z",
     "success_count": 7,
     "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "esa",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "items": 2
       }
@@ -6011,23 +6011,23 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-22T06:50:05Z",
-        "digest": "928603f0d23eaaf80211ef0d3a11f9ba54845283229e1ab30d600b23a28aecb8",
-        "text_sample": "ChatGPT release notes | OpenAI Help Center ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: yesterday November 20, 2026 ChatGPT Space is roll",
-        "changed_at": "2026-11-22T06:50:05Z"
+        "checked_at": "2026-11-22T19:42:06Z",
+        "digest": "e4586be550463e441db81c6ad3a40de537f436cb5a7c40f1fc9881a7489e1300",
+        "text_sample": "ChatGPT release notes | OpenAI Help Center ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 2 days ago November 20, 2026 ChatGPT Space is rol",
+        "changed_at": "2026-11-22T19:42:06Z"
       },
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-22T06:50:05Z",
+        "checked_at": "2026-11-22T19:42:06Z",
         "digest": "23c0f2fdbdec8f1c4232ac3079c66eb2a33bd4c14d1e1f38f80fb299711d8061",
         "text_sample": "Plugins in ChatGPT | OpenAI Help Center Plugins in ChatGPT Learn how plugins work in ChatGPT Chat, Work, and Codex, how to install them, and how connected apps and workspace settin",
         "changed_at": "2026-11-21T19:17:34Z"
@@ -6035,11 +6035,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-22T06:50:05Z",
+        "checked_at": "2026-11-22T19:42:06Z",
         "digest": "b193ba5ce2cb1e05172670620337746b0714db1c214929bcab618d798ac69d47",
         "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
         "changed_at": "2026-11-21T19:17:34Z"
@@ -6047,11 +6047,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-22T06:50:05Z",
+        "checked_at": "2026-11-22T19:42:06Z",
         "digest": "7bceb6559f2593f2a4f5d2a78dc8f676db94babf8e5613aeeb256e4ff7e62a15",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-21T19:17:34Z"
@@ -6059,7 +6059,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6068,11 +6068,11 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-22T06:50:05Z",
+        "attempted": "2026-11-22T19:42:06Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-22T06:50:05Z",
+        "checked_at": "2026-11-22T19:42:06Z",
         "digest": "79ccc86c3d30ae053d4ac3bb9446afd22571efa446d8ce7f84120c632a8e1fa7",
         "text_sample": "Release Notes | OpenAI | OpenAI OpenAI Release notes Copy RSS feed URL All ChatGPT Codex API Filter Sort Nov 17, 2026 API Beta Share Discounted background completion windows in the"
       }
