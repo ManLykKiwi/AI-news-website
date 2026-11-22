@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-f5ce4a0fe482d320ff",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno",
+    "published": "2026-11-22",
+    "published_at": "2026-11-22T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-22T06:50:05Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-04d6e4f4006f92dafe",
     "category": "engineering",
     "source": "NASA",
@@ -5015,27 +5036,6 @@
     "kind": "feed",
     "tags": [
       "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-f9b9cf76d7a694d8d4",
-    "category": "finance",
-    "source": "Bank for International Settlements",
-    "source_id": "bis",
-    "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
-    "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
-    "published": "2026-10-29",
-    "published_at": "2026-10-29T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-29T13:03:35Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
