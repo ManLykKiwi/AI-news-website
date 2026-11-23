@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-18d2d15197a71813b9",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251",
+    "published": "2026-11-23",
+    "published_at": "2026-11-23T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-23T07:40:49Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-e652a8cea996485194",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+    "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+    "published": "2026-11-23",
+    "published_at": "2026-11-23T05:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-23T07:40:49Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-9922f026851241ecf3",
     "category": "engineering",
     "source": "NASA",
@@ -4994,48 +5036,6 @@
     "kind": "feed",
     "tags": [
       "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-d948735545c20cf307",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "url": "https://openai.com/index/ropes-gray-ai-diligence",
-    "published": "2026-10-29",
-    "published_at": "2026-10-29T07:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-29T22:46:10Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-8382e242923f3b28b1",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 29 October 2026 – The Horns of Venus",
-    "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus",
-    "published": "2026-10-29",
-    "published_at": "2026-10-29T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-29T05:49:44Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
