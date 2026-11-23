@@ -250,6 +250,153 @@
       "featured": false
     },
     {
+      "id": "feed-b0689cf87ab570a441",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-23",
+      "published_at": "2026-11-23T21:20:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-23T23:54:45Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-eb2701ff66febea272",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "published": "2026-11-23",
+      "published_at": "2026-11-23T17:20:37Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-23T23:54:45Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-4f5fe20de68e9dfdec",
+      "category": "ai",
+      "source": "Google AI",
+      "source_id": "google",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "published": "2026-11-23",
+      "published_at": "2026-11-23T17:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-23T23:54:45Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-9f91174a0be70691ec",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "Philip R. Lane: Climate change and monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+      "published": "2026-11-23",
+      "published_at": "2026-11-23T14:30:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-23T23:54:45Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-fcdf24928d9144fa72",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+      "published": "2026-11-23",
+      "published_at": "2026-11-23T10:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-23T23:54:45Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-10878202550bbbf922",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-23",
+      "published_at": "2026-11-23T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-23T23:54:45Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-1259b534687dd8b317",
+      "category": "ai",
+      "source": "OpenAI News",
+      "source_id": "openai",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-23",
+      "published_at": "2026-11-23T08:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-23T23:54:45Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-18d2d15197a71813b9",
       "category": "engineering",
       "source": "NASA",
@@ -288,6 +435,27 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-00d52199bef25f9eda",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "published": "2026-11-23",
+      "published_at": "2026-11-23T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-23T23:54:45Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5120,174 +5288,6 @@
         "engineering"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-9349f418e7bc7ab450",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T17:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T22:46:10Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-9eadc21a517cd05484",
-      "category": "finance",
-      "source": "European Central Bank",
-      "source_id": "ecb",
-      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T15:50:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T22:46:10Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-f75e45971bfd7d45b3",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-      "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T15:10:18Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-30T05:51:02Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-e508e29ae812fe586e",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T13:37:07Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T22:46:10Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-7b7f5adf10a3b9f7d2",
-      "category": "finance",
-      "source": "European Central Bank",
-      "source_id": "ecb",
-      "title": "Monetary policy decisions",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T13:15:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T22:46:10Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-0b4b10cb796c52ff97",
-      "category": "engineering",
-      "source": "MIT News",
-      "source_id": "mit",
-      "title": "Magnetic sensors track muscle movement, for better prosthetic limb control",
-      "url": "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T10:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T13:03:35Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-e0a79badc41504c72f",
-      "category": "finance",
-      "source": "European Central Bank",
-      "source_id": "ecb",
-      "title": "ECB President Lagarde to step down on 7 February 2027",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T10:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T13:03:35Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "finance"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-0f01adb2acab0a67ba",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "published": "2026-10-29",
-      "published_at": "2026-10-29T09:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-10-29T22:46:10Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,58 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-23T07:40:49Z",
-    "last_success": "2026-11-23T07:40:49Z",
-    "success_count": 7,
-    "failure_count": 1,
+    "last_attempt": "2026-11-23T23:54:45Z",
+    "last_success": "2026-11-23T23:54:45Z",
+    "success_count": 6,
+    "failure_count": 2,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-23T07:40:49Z",
-        "ok": true,
-        "items": 9
+        "attempted": "2026-11-23T23:54:45Z",
+        "ok": false,
+        "items": 0,
+        "error": "Unsafe or oversized XML source"
       },
       {
         "id": "esa",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
         "items": 2
       }
@@ -6011,23 +6012,23 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-23T07:40:49Z",
-        "digest": "e4586be550463e441db81c6ad3a40de537f436cb5a7c40f1fc9881a7489e1300",
-        "text_sample": "ChatGPT release notes | OpenAI Help Center ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 2 days ago November 20, 2026 ChatGPT Space is rol",
-        "changed_at": "2026-11-22T19:42:06Z"
+        "checked_at": "2026-11-23T23:54:45Z",
+        "digest": "8a1a113d73a505ac175d32308a69f9fbf83ff5c1f39ed16dd51ce39f7aa3fc57",
+        "text_sample": "ChatGPT release notes | OpenAI Help Center ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 5 hours ago November 23, 2026 GPT-6.2, now in the",
+        "changed_at": "2026-11-23T23:54:45Z"
       },
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-23T07:40:49Z",
+        "checked_at": "2026-11-23T23:54:45Z",
         "digest": "23c0f2fdbdec8f1c4232ac3079c66eb2a33bd4c14d1e1f38f80fb299711d8061",
         "text_sample": "Plugins in ChatGPT | OpenAI Help Center Plugins in ChatGPT Learn how plugins work in ChatGPT Chat, Work, and Codex, how to install them, and how connected apps and workspace settin",
         "changed_at": "2026-11-21T19:17:34Z"
@@ -6035,31 +6036,31 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-23T07:40:49Z",
-        "digest": "b193ba5ce2cb1e05172670620337746b0714db1c214929bcab618d798ac69d47",
+        "checked_at": "2026-11-23T23:54:45Z",
+        "digest": "c4ed4daabb2c7bbae6815a33baeb296cf1d1cbedc5d3b2e75ac5b0c6e6dac3ec",
         "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
-        "changed_at": "2026-11-21T19:17:34Z"
+        "changed_at": "2026-11-23T23:54:45Z"
       },
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
-        "changed": false,
+        "changed": true,
         "baseline": false,
-        "checked_at": "2026-11-23T07:40:49Z",
-        "digest": "7bceb6559f2593f2a4f5d2a78dc8f676db94babf8e5613aeeb256e4ff7e62a15",
+        "checked_at": "2026-11-23T23:54:45Z",
+        "digest": "f85ebcbe9c5c8a62b1914e0a588ac9e353a14073ecd4a983654ab27d5561df8d",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-        "changed_at": "2026-11-21T19:17:34Z"
+        "changed_at": "2026-11-23T23:54:45Z"
       },
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6068,11 +6069,11 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-23T07:40:49Z",
+        "attempted": "2026-11-23T23:54:45Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-23T07:40:49Z",
+        "checked_at": "2026-11-23T23:54:45Z",
         "digest": "79ccc86c3d30ae053d4ac3bb9446afd22571efa446d8ce7f84120c632a8e1fa7",
         "text_sample": "Release Notes | OpenAI | OpenAI OpenAI Release notes Copy RSS feed URL All ChatGPT Codex API Filter Sort Nov 17, 2026 API Beta Share Discounted background completion windows in the"
       }
