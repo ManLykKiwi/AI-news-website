@@ -1,5 +1,320 @@
 [
   {
+    "id": "feed-662dd4090d4d9ea867",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+    "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T21:14:36Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-81375e384c76e0d8f9",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+    "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T21:04:32Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-ae031e0d52ce99dbb0",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+    "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T19:09:16Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-5537990aaf6ac13bad",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "AGU Hyperwall Schedule",
+    "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T18:55:42Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-997c32e18231849ce5",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "Webb Reveals New Details in Supernova Remnant",
+    "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T16:51:27Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-6a28e842b3bf4bfd84",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T16:34:13Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-3e200d1afac1b49775",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "What if excess renewable energy could power new industrial processes?",
+    "url": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T16:30:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-a7a0adf7d6c734e350",
+    "category": "ai",
+    "source": "Google AI",
+    "source_id": "google",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T16:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-1596b13439fe8ac3da",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+    "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T15:44:38Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-ac2f786b30f6d45772",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T13:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-7758c04a629331bf96",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T11:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-58bc7856b7cca52e51",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T11:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-5362c14e3ea77a60a1",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-7e14b56be674430859",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "How Intentful uses dots to make more time for growth",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-89a905d5eae9fa3ef5",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-b0689cf87ab570a441",
     "category": "ai",
     "source": "OpenAI News",
@@ -4721,321 +5036,6 @@
     "kind": "feed",
     "tags": [
       "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-7b620b8ee23e792e1f",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 November 1 – Colors of the Moon",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
-    "published": "2026-11-01",
-    "published_at": "2026-11-01T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-01T06:08:00Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-e6da576f1b1a6c97a0",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet",
-    "published": "2026-10-31",
-    "published_at": "2026-10-31T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-31T05:44:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-037154e824aaff256e",
-    "category": "ai",
-    "source": "Hugging Face",
-    "source_id": "hf",
-    "title": "nemotron-halloween",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T17:57:24Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T22:22:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-ebe3120c8047d0837b",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Philip R. Lane: AI adoption in Europe",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T16:10:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T22:22:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-116cf971800a3bfb4c",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-    "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T14:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T22:22:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-de6d65e3030fdaab6c",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "November’s Night Sky Notes: Light-Day Away",
-    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T10:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T12:57:46Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-84abd1857de5dfd951",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Making it easier for websites to express AI training preferences",
-    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T09:30:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T22:22:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-e7ad213e30394acdb9",
-    "category": "finance",
-    "source": "European Central Bank",
-    "source_id": "ecb",
-    "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
-    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T09:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T12:57:46Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "finance"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-a86d24c59c826150d1",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Community safety report and new protections for teens",
-    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T09:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T22:22:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-4a7112d2f79c11dcd6",
-    "category": "engineering",
-    "source": "MIT News",
-    "source_id": "mit",
-    "title": "MIT engineers create nanoparticles for delivering personalized cancer vaccines",
-    "url": "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T04:30:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T05:51:02Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-7cf97945aa6283b855",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T04:05:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T05:51:02Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-c546feec3ff82ee7e2",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-    "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T00:07:39Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T05:51:02Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-574dbaf7fc8731e405",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Fair use benefits everyone",
-    "url": "https://openai.com/index/fair-use-benefits-everyone",
-    "published": "2026-10-30",
-    "published_at": "2026-10-30T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T22:22:16Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-f3e9ae8c2f1a5665b5",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "Halloween Aboard the International Space Station",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station",
-    "published": "2026-10-29",
-    "published_at": "2026-10-29T21:44:23Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T05:51:02Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-8e1b5d99dbee8b9bde",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-    "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director",
-    "published": "2026-10-29",
-    "published_at": "2026-10-29T18:00:35Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-10-30T05:51:02Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
