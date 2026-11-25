@@ -1,55 +1,55 @@
 {
-  "last_attempt": "2026-11-24T22:27:51Z",
-  "last_success": "2026-11-24T22:27:51Z",
+  "last_attempt": "2026-11-25T08:36:51Z",
+  "last_success": "2026-11-25T08:36:51Z",
   "success_count": 7,
   "failure_count": 1,
   "feeds": [
     {
       "id": "openai",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
       "items": 12
     },
     {
       "id": "google",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
       "items": 12
     },
     {
       "id": "hf",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
       "items": 8
     },
     {
       "id": "nasa",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
       "items": 7
     },
     {
       "id": "esa",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": false,
       "items": 0,
       "error": "HTTP 404; source may restrict automated access"
     },
     {
       "id": "mit",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
       "items": 10
     },
     {
       "id": "ecb",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
       "items": 12
     },
     {
       "id": "bis",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
       "items": 2
     }
@@ -58,23 +58,23 @@
     {
       "id": "chat-release",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
       "changed": true,
       "baseline": false,
-      "checked_at": "2026-11-24T22:27:51Z",
-      "digest": "c09ff62ec7e4b1caf1cc54695ea1fdb1371b2f754a1ea377d22433b814094b9b",
-      "text_sample": "ChatGPT release notes | OpenAI Help Center ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: yesterday November 23, 2026 GPT-6.2, now in the c",
-      "changed_at": "2026-11-24T22:27:51Z"
+      "checked_at": "2026-11-25T08:36:51Z",
+      "digest": "8a1a113d73a505ac175d32308a69f9fbf83ff5c1f39ed16dd51ce39f7aa3fc57",
+      "text_sample": "ChatGPT release notes | OpenAI Help Center ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 2 days ago November 23, 2026 GPT-6.2, now in the ",
+      "changed_at": "2026-11-25T08:36:51Z"
     },
     {
       "id": "plugins",
       "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
       "changed": false,
       "baseline": false,
-      "checked_at": "2026-11-24T22:27:51Z",
+      "checked_at": "2026-11-25T08:36:51Z",
       "digest": "23c0f2fdbdec8f1c4232ac3079c66eb2a33bd4c14d1e1f38f80fb299711d8061",
       "text_sample": "Plugins in ChatGPT | OpenAI Help Center Plugins in ChatGPT Learn how plugins work in ChatGPT Chat, Work, and Codex, how to install them, and how connected apps and workspace settin",
       "changed_at": "2026-11-21T19:17:34Z"
@@ -82,31 +82,31 @@
     {
       "id": "model-guide",
       "url": "https://developers.openai.com/api/docs/guides/latest-model",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
-      "changed": false,
+      "changed": true,
       "baseline": false,
-      "checked_at": "2026-11-24T22:27:51Z",
-      "digest": "c4ed4daabb2c7bbae6815a33baeb296cf1d1cbedc5d3b2e75ac5b0c6e6dac3ec",
+      "checked_at": "2026-11-25T08:36:51Z",
+      "digest": "b893f6eebbd4bf7e379b58624162df9df63c280f656547d4b5b5df1bdc7864b7",
       "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
-      "changed_at": "2026-11-23T23:54:45Z"
+      "changed_at": "2026-11-25T08:36:51Z"
     },
     {
       "id": "agents-doc",
       "url": "https://developers.openai.com/api/docs/guides/agents",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
-      "changed": false,
+      "changed": true,
       "baseline": false,
-      "checked_at": "2026-11-24T22:27:51Z",
-      "digest": "f85ebcbe9c5c8a62b1914e0a588ac9e353a14073ecd4a983654ab27d5561df8d",
+      "checked_at": "2026-11-25T08:36:51Z",
+      "digest": "4003be98136bca0d677bf61220f7bc068af95aa799dd1b8828c4735a2924b6b9",
       "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
-      "changed_at": "2026-11-23T23:54:45Z"
+      "changed_at": "2026-11-25T08:36:51Z"
     },
     {
       "id": "model-spec",
       "url": "https://model-spec.openai.com/",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": false,
       "changed": false,
       "baseline": false,
@@ -115,11 +115,11 @@
     {
       "id": "all-releases",
       "url": "https://openai.com/products/release-notes/",
-      "attempted": "2026-11-24T22:27:51Z",
+      "attempted": "2026-11-25T08:36:51Z",
       "ok": true,
       "changed": false,
       "baseline": false,
-      "checked_at": "2026-11-24T22:27:51Z",
+      "checked_at": "2026-11-25T08:36:51Z",
       "digest": "79ccc86c3d30ae053d4ac3bb9446afd22571efa446d8ce7f84120c632a8e1fa7",
       "text_sample": "Release Notes | OpenAI | OpenAI OpenAI Release notes Copy RSS feed URL All ChatGPT Codex API Filter Sort Nov 17, 2026 API Beta Share Discounted background completion windows in the"
     }

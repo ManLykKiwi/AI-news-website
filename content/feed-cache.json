@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-c2dcde0f0be44afb55",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust",
+    "published": "2026-11-25",
+    "published_at": "2026-11-25T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-25T08:36:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-d2bb4ee42ef962daed",
+    "category": "engineering",
+    "source": "MIT News",
+    "source_id": "mit",
+    "title": "3 Questions: Tackling energy challenges in a changing world",
+    "url": "https://news.mit.edu/2026/3-questions-tackling-energy-challenges-changing-world-1124",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T22:25:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-25T08:36:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-662dd4090d4d9ea867",
     "category": "engineering",
     "source": "NASA",
@@ -304,6 +346,27 @@
     "published_at": "2026-11-24T00:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-11-24T22:27:51Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-a3c9028eefd69cfd15",
+    "category": "ai",
+    "source": "OpenAI News",
+    "source_id": "openai",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "published": "2026-11-24",
+    "published_at": "2026-11-24T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-25T08:36:51Z",
     "summary": "",
     "why": "",
     "technical": "",
@@ -4973,69 +5036,6 @@
     "kind": "feed",
     "tags": [
       "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-09573cf26432bf09b4",
-    "category": "engineering",
-    "source": "MIT News",
-    "source_id": "mit",
-    "title": "MIT engineers design a safer, more efficient vaccination system for farmed fish",
-    "url": "https://news.mit.edu/2026/mit-engineers-design-safer-more-efficient-vaccination-system-farmed-fish-1102",
-    "published": "2026-11-02",
-    "published_at": "2026-11-02T05:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-02T06:06:15Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-4094d4340f9e66f9e2",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Qodo builds context into AI code review with Codex",
-    "url": "https://openai.com/index/qodo-codex-plugin",
-    "published": "2026-11-02",
-    "published_at": "2026-11-02T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-03T00:59:17Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-945f879ef3a469b4ae",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
-    "published": "2026-11-02",
-    "published_at": "2026-11-02T00:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-03T00:59:17Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
