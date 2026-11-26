@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-00009a421e4e16476c",
+    "category": "finance",
+    "source": "European Central Bank",
+    "source_id": "ecb",
+    "title": "Meeting of 28-29 October 2026",
+    "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+    "published": "2026-11-26",
+    "published_at": "2026-11-26T12:30:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-26T21:33:46Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "finance"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-a734da9d3a1d876054",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "published": "2026-11-26",
+    "published_at": "2026-11-26T11:37:17Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-26T21:33:46Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-3d2697b636d74b834f",
     "category": "ai",
     "source": "Hugging Face",
@@ -38,6 +80,27 @@
     "kind": "feed",
     "tags": [
       "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-819f2bb8e324e5e7f3",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "published": "2026-11-26",
+    "published_at": "2026-11-26T00:00:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-26T21:33:46Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   },
@@ -4964,69 +5027,6 @@
     "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now",
     "published": "2026-11-02",
     "published_at": "2026-11-02T21:35:59Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-03T23:24:31Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-5fc0241e25c90db0d1",
-    "category": "engineering",
-    "source": "MIT News",
-    "source_id": "mit",
-    "title": "Powering up for a pivotal moment",
-    "url": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
-    "published": "2026-11-02",
-    "published_at": "2026-11-02T19:55:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-03T00:59:17Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-b6e6022f064e27b840",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "NASA’s CHAPEA Crew “Returns” to Earth",
-    "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth",
-    "published": "2026-11-02",
-    "published_at": "2026-11-02T18:50:42Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-03T23:24:31Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-ba964a97582490024f",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "What’s Up: November 2026 Skywatching Tips from NASA",
-    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa",
-    "published": "2026-11-02",
-    "published_at": "2026-11-02T18:19:58Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-11-03T23:24:31Z",
     "summary": "",
