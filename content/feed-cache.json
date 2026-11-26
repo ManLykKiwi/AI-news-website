@@ -1,5 +1,47 @@
 [
   {
+    "id": "feed-3d2697b636d74b834f",
+    "category": "ai",
+    "source": "Hugging Face",
+    "source_id": "hf",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "published": "2026-11-26",
+    "published_at": "2026-11-26T05:05:36Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-26T08:20:20Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "ai"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
+    "id": "feed-5a7b17abdd11c4ca38",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois",
+    "published": "2026-11-26",
+    "published_at": "2026-11-26T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-26T08:20:20Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-efad23ef3736ba81b7",
     "category": "engineering",
     "source": "NASA",
@@ -4994,48 +5036,6 @@
     "kind": "feed",
     "tags": [
       "engineering"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-0d297090385ad5a724",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "published": "2026-11-02",
-    "published_at": "2026-11-02T18:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-03T14:17:27Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-bca108e4c77bd86b23",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Rewarding defenders with bigger bug bounties",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "published": "2026-11-02",
-    "published_at": "2026-11-02T18:00:00Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-03T14:17:27Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
