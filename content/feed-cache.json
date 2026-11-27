@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-ae1170a006ae83d9ea",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 27 – The Moon Watchers",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers",
+    "published": "2026-11-27",
+    "published_at": "2026-11-27T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-27T08:36:08Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-00009a421e4e16476c",
     "category": "finance",
     "source": "European Central Bank",
@@ -5015,27 +5036,6 @@
     "kind": "feed",
     "tags": [
       "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-94e58e2186eada314c",
-    "category": "engineering",
-    "source": "NASA",
-    "source_id": "nasa",
-    "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now",
-    "published": "2026-11-02",
-    "published_at": "2026-11-02T21:35:59Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-03T23:24:31Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "engineering"
     ],
     "editorial_status": "Publisher feed · not independently verified"
   }
