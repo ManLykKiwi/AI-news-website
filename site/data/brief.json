@@ -250,6 +250,111 @@
       "featured": false
     },
     {
+      "id": "feed-1380af4ce3b5ec9398",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab",
+      "published": "2026-11-27",
+      "published_at": "2026-11-27T15:01:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-27T21:18:44Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-606ac8fb55254a3b15",
+      "category": "engineering",
+      "source": "NASA",
+      "source_id": "nasa",
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research",
+      "published": "2026-11-27",
+      "published_at": "2026-11-27T14:22:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-27T21:18:44Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-52093f454fd05226ac",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "published": "2026-11-27",
+      "published_at": "2026-11-27T14:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-27T21:18:44Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-25669981f291d995bd",
+      "category": "engineering",
+      "source": "MIT News",
+      "source_id": "mit",
+      "title": "Engineering antibiotics could expand the pool of new drug candidates",
+      "url": "https://news.mit.edu/2026/engineering-antibiotics-could-expand-new-drug-candidates-pool-1127",
+      "published": "2026-11-27",
+      "published_at": "2026-11-27T10:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-27T21:18:44Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-6a89018ebd552bf520",
+      "category": "finance",
+      "source": "European Central Bank",
+      "source_id": "ecb",
+      "title": "ECB Consumer Expectations Survey results – October 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+      "published": "2026-11-27",
+      "published_at": "2026-11-27T09:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-27T21:18:44Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "finance"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
       "id": "feed-ae1170a006ae83d9ea",
       "category": "engineering",
       "source": "NASA",
@@ -267,6 +372,27 @@
       "kind": "feed",
       "tags": [
         "engineering"
+      ],
+      "editorial_status": "Publisher feed · not independently verified"
+    },
+    {
+      "id": "feed-c2bd7953104652e48b",
+      "category": "ai",
+      "source": "Hugging Face",
+      "source_id": "hf",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "published": "2026-11-27",
+      "published_at": "2026-11-27T00:00:00Z",
+      "date_kind": "publisher publication date",
+      "first_seen": "2026-11-27T21:18:44Z",
+      "summary": "",
+      "why": "",
+      "technical": "",
+      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+      "kind": "feed",
+      "tags": [
+        "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
     },
@@ -5162,132 +5288,6 @@
         "ai"
       ],
       "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-fc87a45dcfbf03d417",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "published": "2026-11-03",
-      "published_at": "2026-11-03T08:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-11-03T14:17:27Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-34e7d62615202d0de6",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "published": "2026-11-03",
-      "published_at": "2026-11-03T08:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-11-03T23:24:31Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-90c08f78aa09ed892a",
-      "category": "engineering",
-      "source": "NASA",
-      "source_id": "nasa",
-      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor",
-      "published": "2026-11-03",
-      "published_at": "2026-11-03T05:05:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-11-03T23:24:31Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "engineering"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-a6f54d325d31634f89",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "Transformers Model Integration Contracts",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "published": "2026-11-03",
-      "published_at": "2026-11-03T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-11-03T14:17:27Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-019edb616369c3322f",
-      "category": "ai",
-      "source": "OpenAI News",
-      "source_id": "openai",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "published": "2026-11-03",
-      "published_at": "2026-11-03T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-11-03T23:24:31Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
-    },
-    {
-      "id": "feed-63945bc79480974982",
-      "category": "ai",
-      "source": "Hugging Face",
-      "source_id": "hf",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "published": "2026-11-03",
-      "published_at": "2026-11-03T00:00:00Z",
-      "date_kind": "publisher publication date",
-      "first_seen": "2026-11-03T23:24:31Z",
-      "summary": "",
-      "why": "",
-      "technical": "",
-      "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-      "kind": "feed",
-      "tags": [
-        "ai"
-      ],
-      "editorial_status": "Publisher feed · not independently verified"
     }
   ],
   "lessons": [
@@ -5952,57 +5952,57 @@
     }
   ],
   "update": {
-    "last_attempt": "2026-11-27T08:36:08Z",
-    "last_success": "2026-11-27T08:36:08Z",
+    "last_attempt": "2026-11-27T21:18:44Z",
+    "last_success": "2026-11-27T21:18:44Z",
     "success_count": 7,
     "failure_count": 1,
     "feeds": [
       {
         "id": "openai",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "google",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "hf",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "items": 8
       },
       {
         "id": "nasa",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
-        "items": 5
+        "items": 6
       },
       {
         "id": "esa",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": false,
         "items": 0,
         "error": "HTTP 404; source may restrict automated access"
       },
       {
         "id": "mit",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "items": 10
       },
       {
         "id": "ecb",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "items": 12
       },
       {
         "id": "bis",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "items": 3
       }
@@ -6011,11 +6011,11 @@
       {
         "id": "chat-release",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-27T08:36:08Z",
+        "checked_at": "2026-11-27T21:18:44Z",
         "digest": "8a1a113d73a505ac175d32308a69f9fbf83ff5c1f39ed16dd51ce39f7aa3fc57",
         "text_sample": "ChatGPT release notes | OpenAI Help Center ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 4 days ago November 23, 2026 GPT-6.2, now in the ",
         "changed_at": "2026-11-25T08:36:51Z"
@@ -6023,11 +6023,11 @@
       {
         "id": "plugins",
         "url": "https://help.openai.com/en/articles/20001256-plugins-in-chatgpt",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-27T08:36:08Z",
+        "checked_at": "2026-11-27T21:18:44Z",
         "digest": "23c0f2fdbdec8f1c4232ac3079c66eb2a33bd4c14d1e1f38f80fb299711d8061",
         "text_sample": "Plugins in ChatGPT | OpenAI Help Center Plugins in ChatGPT Learn how plugins work in ChatGPT Chat, Work, and Codex, how to install them, and how connected apps and workspace settin",
         "changed_at": "2026-11-21T19:17:34Z"
@@ -6035,11 +6035,11 @@
       {
         "id": "model-guide",
         "url": "https://developers.openai.com/api/docs/guides/latest-model",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-27T08:36:08Z",
+        "checked_at": "2026-11-27T21:18:44Z",
         "digest": "b893f6eebbd4bf7e379b58624162df9df63c280f656547d4b5b5df1bdc7864b7",
         "text_sample": "Using GPT-6.2 | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the ",
         "changed_at": "2026-11-25T08:36:51Z"
@@ -6047,11 +6047,11 @@
       {
         "id": "agents-doc",
         "url": "https://developers.openai.com/api/docs/guides/agents",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-27T08:36:08Z",
+        "checked_at": "2026-11-27T21:18:44Z",
         "digest": "4003be98136bca0d677bf61220f7bc068af95aa799dd1b8828c4735a2924b6b9",
         "text_sample": "Agents | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Search the API doc",
         "changed_at": "2026-11-25T08:36:51Z"
@@ -6059,7 +6059,7 @@
       {
         "id": "model-spec",
         "url": "https://model-spec.openai.com/",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": false,
         "changed": false,
         "baseline": false,
@@ -6068,11 +6068,11 @@
       {
         "id": "all-releases",
         "url": "https://openai.com/products/release-notes/",
-        "attempted": "2026-11-27T08:36:08Z",
+        "attempted": "2026-11-27T21:18:44Z",
         "ok": true,
         "changed": false,
         "baseline": false,
-        "checked_at": "2026-11-27T08:36:08Z",
+        "checked_at": "2026-11-27T21:18:44Z",
         "digest": "79ccc86c3d30ae053d4ac3bb9446afd22571efa446d8ce7f84120c632a8e1fa7",
         "text_sample": "Release Notes | OpenAI | OpenAI OpenAI Release notes Copy RSS feed URL All ChatGPT Codex API Filter Sort Nov 17, 2026 API Beta Share Discounted background completion windows in the"
       }
