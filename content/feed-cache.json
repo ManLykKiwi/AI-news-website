@@ -1,5 +1,26 @@
 [
   {
+    "id": "feed-073b49d2435cb7556a",
+    "category": "engineering",
+    "source": "NASA",
+    "source_id": "nasa",
+    "title": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph",
+    "published": "2026-11-28",
+    "published_at": "2026-11-28T05:05:00Z",
+    "date_kind": "publisher publication date",
+    "first_seen": "2026-11-28T07:51:30Z",
+    "summary": "",
+    "why": "",
+    "technical": "",
+    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
+    "kind": "feed",
+    "tags": [
+      "engineering"
+    ],
+    "editorial_status": "Publisher feed · not independently verified"
+  },
+  {
     "id": "feed-1380af4ce3b5ec9398",
     "category": "engineering",
     "source": "NASA",
@@ -5006,27 +5027,6 @@
     "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
     "published": "2026-11-03",
     "published_at": "2026-11-03T16:35:36Z",
-    "date_kind": "publisher publication date",
-    "first_seen": "2026-11-03T23:24:31Z",
-    "summary": "",
-    "why": "",
-    "technical": "",
-    "caveat": "This is an automatically imported publisher update, not an independently verified report. Read the original before relying on its claims.",
-    "kind": "feed",
-    "tags": [
-      "ai"
-    ],
-    "editorial_status": "Publisher feed · not independently verified"
-  },
-  {
-    "id": "feed-25493a43cba550c7fe",
-    "category": "ai",
-    "source": "OpenAI News",
-    "source_id": "openai",
-    "title": "Accelerating engineering for the physical world",
-    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-    "published": "2026-11-03",
-    "published_at": "2026-11-03T12:00:00Z",
     "date_kind": "publisher publication date",
     "first_seen": "2026-11-03T23:24:31Z",
     "summary": "",
